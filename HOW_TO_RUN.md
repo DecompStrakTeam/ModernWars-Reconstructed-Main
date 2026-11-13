@@ -69,4 +69,24 @@ The biggest threat to your game wasn't some hacker, cracker, or an expert revers
 
 Fucking magnificent work. Not the game. The incompetence.
 
+And the most embarrassing thing is that it took **TEN FUCKING MINUTES**.
+
+Ten minutes to figure out everything about encryption keys, to understand the encoding scheme used in DLLs and to decrypt them.
+
+Think about this: someone who had only recently joined the team and who was unfamiliar with project internals did all of that within a time span it takes to brew a cup of coffee.
+
+Where is the security? Where is the obfuscation? Where is the supposedly advanced encryption? Because, however you did it, it seems that it is not enough to withstand ten minutes of analysis.
+
+You invested several hundred dollars in developing the game with AI assistance and someone who joined your team recently has understood and decrypted it in ten minutes.
+
+This is not an amazing reverse engineering trick. This is a complete lack of even basic security.
+
+But the really frightening thing here is that apparently the effort required for it was so low that someone who joined the team recently managed to do all that in ten minutes.
+
+Your system wasn't designed to be hard to crack. It was hard to realize it was this easy.
+
+Ten minutes. This is all it took for the problem to become apparent, when it could have been caught during development.
+
+In all honesty, I don’t know if it’s impressive to see how quickly it was solved, or worrying how easily it was.
+
 Now, love and cheers from Johannas, Amsterdam <3
