@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "imported": "2026-10-04",
+  "source": "User supplied extracted archives; see docs/SYSTEMS_ASSET_PROVENANCE.md",
+  "runtime_network": false,
+  "assets": [
+    {
+      "path": "assets/systems/buildings/administrative-office.png",
+      "sha256": "1efec56f20a286126a27a76883cb89c8a12d83b30b48c0f01bbe3d11b2e187c1",
+      "bytes": 1053,
+      "width": 72,
+      "height": 52
+    },
+    {
+      "path": "assets/systems/buildings/airbase.png",
+      "sha256": "a3a0793b98c6bcdf300d89d0840cedb087d9dead51c79f7a8d154562cacdfbb4",
+      "bytes": 1648,
+      "width": 115,
+      "height": 79
+    },
+    {
+      "path": "assets/systems/buildings/anti-air.png",
+      "sha256": "80b14dc57b842ec5397306eec75cffac83503c3ef7cf1fcc49a1f20f318bdd1e",
+      "bytes": 434,
+      "width": 27,
+      "height": 37
+    },
+    {
+      "path": "assets/systems/buildings/drone-launch-site.png",
+      "sha256": "86b42b48e2827918fd9ef257fa5fb906a085ee821d9e86acbc265cac9620a950",
+      "bytes": 865,
+      "width": 65,
+      "height": 55
+    },
+    {
+      "path": "assets/systems/buildings/factory.png",
+      "sha256": "1a6d5de1a27bcaf6e02291d4db76ad675ed99f7c879331a21db1f8b92e147042",
+      "bytes": 527,
+      "width": 38,
+      "height": 35
+    },
+    {
+      "path": "assets/systems/buildings/fortress.png",
+      "sha256": "f544fa9a88a41acc52e5bada42c154a413fe1f50112a993af3a9db4b4e9c05fe",
+      "bytes": 1016,
+      "width": 82,
+      "height": 52
+    },
+    {
+      "path": "assets/systems/buildings/military-base.png",
+      "sha256": "a85b3bd239f7b7a201b63ca79394e1fa255b24437ab23b0686428ef78c100477",
+      "bytes": 982,
+      "width": 56,
+      "height": 48
+    },
+    {
+      "path": "assets/systems/buildings/naval-base.png",
+      "sha256": "840890569fef4d289f82ff3ba2f28947f16b200d378969647beee5073d3d2c88",
+      "bytes": 1806,
+      "width": 113,
+      "height": 50
+    },
+    {
+      "path": "assets/systems/buildings/prison.png",
+      "sha256": "6792178fe02eaef7232b561e46a1fc8b080079c9dc83a3ecadd184500c2acdaa",
+      "bytes": 964,
+      "width": 74,
+      "height": 51
+    },
+    {
+      "path": "assets/systems/vehicles/battleship.png",
+      "sha256": "0ff67b91076fa67de6c7ea790e04732a639b04c5393f5f451feacd542cea4428",
+      "bytes": 24556,
+      "width": 896,
+      "height": 448
+    },
+    {
+      "path": "assets/systems/vehicles/bomber.png",
+      "sha256": "9c235e7f7a3e2b5b2a175ea97b6dc48d549862e985baaa1cbb8fe6af283cff72",
+      "bytes": 34234,
+      "width": 896,
+      "height": 448
+    },
+    {
+      "path": "assets/systems/vehicles/carrier.png",
+      "sha256": "932dd27cc5aff514b501280475955306600027f7ea1eb9b35dec60ac9bc6d6db",
+      "bytes": 26163,
+      "width": 1792,
+      "height": 224
+    },
+    {
+      "path": "assets/systems/vehicles/cas.png",
+      "sha256": "95ed124d8d328e15cc37845f6462d34a372510207ad4e21553734042aeb9c20a",
+      "bytes": 31134,
+      "width": 896,
+      "height": 448
+    },
+    {
+      "path": "assets/systems/vehicles/cruiser.png",
+      "sha256": "f50ccedbf03543900d8a17096a0c4a1414b31087bd8ce24ced220f9678a7826a",
+      "bytes": 12347,
+      "width": 1792,
+      "height": 224
+    },
+    {
+      "path": "assets/systems/vehicles/fighter.png",
+      "sha256": "4c520cc8030ae9410d63de492cac3424243b0eb933ddb41e0f1e4d32b1a4ee31",
+      "bytes": 6545,
+      "width": 896,
+      "height": 448
+    },
+    {
+      "path": "assets/systems/vehicles/landing_craft.png",
+      "sha256": "fb8cc0dabc9ac7abf8ab12da2eb04bcf4cc353d3047bbb67c47e68fdb09a458b",
+      "bytes": 9352,
+      "width": 896,
+      "height": 448
+    },
+    {
+      "path": "assets/systems/vehicles/submarine.png",
+      "sha256": "74e5e7f1a64a2eae3f005a7e689599775403e10210f0ce455e9f4e27a4ee7f5d",
+      "bytes": 11151,
+      "width": 1792,
+      "height": 224
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[configuration]
+entry_symbol="mw_conflict_core_library_init"
+compatibility_minimum="4.7"
+reloadable=false
+[libraries]
+windows.debug.x86_64="res://native/bin/mw_conflict_core.dll"
+windows.release.x86_64="res://native/bin/mw_conflict_core.dll"

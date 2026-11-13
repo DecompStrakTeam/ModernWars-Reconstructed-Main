@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg7" width="1e3" height="600" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata1">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect id="rect1" width="1e3" height="600" style="fill:#ffe000"/>
+ <g id="g2">
+  <polygon id="triangle" points="370.096 375 629.904 375 500 150"/>
+  <use id="use1" transform="rotate(180,500,300)" width="440" height="320" xlink:href="#triangle"/>
+ </g>
+ <g id="g1">
+  <path id="path1" d="m493.758 286.8-13.352-25.4382-50.6723 27.65c0.083 4.4308-1.4945 6.9406 2.0362 15.409l29.389 51.4385 0.1922-0.1126c4.3091 8.9903 10.589 15.5762 22.2819 15.559l0.8068-0.3374 24.3564 79.0322 94.1605-56.8746-43.4882-54.5128 14.368-39.7786-3.4575 1.7621-19.6504-33.4424z" style="fill:#ffe000;stroke-width:1.00368"/>
+  <g id="g10">
+   <path id="rect2" d="m423.444 278.185 24.184-13.392 32.221 53.835-24.185 13.392z" style="fill:#ffe000;stroke-width:2.5729;stroke:#000000"/>
+   <path id="rect3" d="m447.707 264.802 24.184-13.391 32.221 53.834-24.184 13.392z" style="fill:#ffe000;stroke-width:2.5729;stroke:#000000"/>
+   <path id="rect4" d="m471.97 251.42 24.184-13.392 32.221 53.835-24.184 13.391z" style="fill:#ffe000;stroke-width:2.5729;stroke:#000000"/>
+   <path id="rect5" d="m495.422 237.908 24.184-13.392 32.221 53.835-24.184 13.392z" style="fill:#ffe000;stroke-width:2.5729;stroke:#000000"/>
+  </g>
+  <path id="rect6" d="m482.598 276.871 58.763-33.11 15.182 25.662-58.763 33.11z" style="fill:#ffe000;stroke-width:2.55972;stroke:#000000"/>
+  <path id="path6" d="m546.566 256.253-28.1753 22.5553 22.3993 39.3423c11.2331-6.5887 21.8675-8.677 33.1006-19.2794z" style="fill:#ffe000;stroke-width:1.00368"/>
+  <path id="path7" d="m507.496 328.541 18.6429-33.9489c-0.1817-0.21752-0.36337-0.43505-0.54507-0.65255-0.51116-0.61199-0.69832-1.25775-0.97227-1.80565-0.32045-0.64094-0.67176-1.22734-0.83337-1.38897" style="fill:none;stroke-width:2.42;stroke:#000000"/>
+ </g>
+</svg>

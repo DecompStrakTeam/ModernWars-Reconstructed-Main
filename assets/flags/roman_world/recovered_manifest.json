@@ -1,0 +1,1921 @@
+{
+  "schema_version": 1,
+  "scenario_path": "res://data/scenarios/roman_world_finished_preset.json",
+  "countries": {
+    "1": {
+      "source_sha256": "ed6851cb3ab6ff8ebe3965b4fb17bd8c7fda80985c09803396e3709417346b1f",
+      "local_path": "res://assets/flags/roman_world/country_1.png",
+      "sha256": "662e72a713debf3d99ff88d1d68e517191de2de77fd014c4e5c89f9d15a2ed3b",
+      "width": 700,
+      "height": 550,
+      "actual_mime": "image/png"
+    },
+    "2": {
+      "source_sha256": "5c0901f99d27fe6e3139cc8357e1698dc238062a5f48069e66c5b04008c6ce40",
+      "local_path": "res://assets/flags/roman_world/country_2.png",
+      "sha256": "cdc238488145c13c49066064e6c61efcca1dc6b1f09cb475c7552be09d660551",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "3": {
+      "source_sha256": "9c7d300f54a30e648d83f8215bb2e1c384f654337fef985511443bb99683b47a",
+      "local_path": "res://assets/flags/roman_world/country_3.png",
+      "sha256": "7137decb58b3fa7eb22540a5983c7588e5d68fd2a036820f641639c0bfa9075e",
+      "width": 320,
+      "height": 229,
+      "actual_mime": "image/png"
+    },
+    "4": {
+      "source_sha256": "6706ed6d6097c165104fd6d31646842bda23bad4315771159871064141f96628",
+      "local_path": "res://assets/flags/roman_world/country_4.png",
+      "sha256": "1b8989b2cb4e641ac50142f84af79bc8faf26b633ee45c4264711b60b0988455",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "5": {
+      "source_sha256": "2efed87c594307abed211bbfbdd742c2c24be6a3a5e71b19d2d2dcb6eb6c7767",
+      "local_path": "res://assets/flags/roman_world/country_5.png",
+      "sha256": "246327f9299715d97d7d61eca30c4f92df9b7697044dc544df1e9b617781cde4",
+      "width": 320,
+      "height": 200,
+      "actual_mime": "image/png"
+    },
+    "6": {
+      "source_sha256": "80e74cde41fb2143bd06a4192f7ca92c68c4b4bf1220411407e3ace22a481d47",
+      "local_path": "res://assets/flags/roman_world/country_6.png",
+      "sha256": "7fd9a246386b5373c3db3c0f497b5c6e3b32b4da5d4ac195deef16cc7c7c62e8",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "7": {
+      "source_sha256": "60e3e409a4ed03099902123d5d79d74c902bd02204abb86ac43389622ce267f0",
+      "local_path": "res://assets/flags/roman_world/country_7.png",
+      "sha256": "20170f0486cdccb4c508adfa25dc2105ca281e30716b8d5cc0318a78fc38797d",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "8": {
+      "source_sha256": "235fcf53ba2660459658977294e35e810955dba1d64ac7d956f8c2b8423bc8a4",
+      "local_path": "res://assets/flags/roman_world/country_8.png",
+      "sha256": "2d5b0894434cdda5d6154eb82853edec3098ae7a4bdb2848493cd8b0400b84ce",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "9": {
+      "source_sha256": "fb9e70731e86788d65c16c455285715bde734cf8dbc60c138425c9f0b09759fe",
+      "local_path": "res://assets/flags/roman_world/country_9.png",
+      "sha256": "ebdc3132d9a87da97bdc8bae652382514ff20d01fb338f101d41ecd74b105992",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "10": {
+      "source_sha256": "852ad090e0ff17cefc1046760253053d2306651170dfc568a16f77803e900d4d",
+      "local_path": "res://assets/flags/roman_world/country_10.png",
+      "sha256": "cddfe336fd6cebf2ccec4e3ec2495d4a7feb74db12af5ea264b3112ac75def09",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "11": {
+      "source_sha256": "3f9b5a8a75b52696551cee4eed912de05775cc8e24a524016affe8d7ab44994a",
+      "local_path": "res://assets/flags/roman_world/country_11.png",
+      "sha256": "de492f446642fe41a615c81b53412dafa7ef979d7a7ee01bf50fd2cb343cd811",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "12": {
+      "source_sha256": "ebaaeeba406a79a1ce747e1bc95a33d6cecb2b4415a4ccd41525e2bde2d2c6d8",
+      "local_path": "res://assets/flags/roman_world/country_12.png",
+      "sha256": "49b510d75e16086f0dc57d8f4a0cc7c2b609d6ea49300addfe09e280b23a0010",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "13": {
+      "source_sha256": "0b9bff6482a081c76c018fa090da4e6d6e25322d23a45952890fc370a023b986",
+      "local_path": "res://assets/flags/roman_world/country_13.png",
+      "sha256": "641a8349ccc888287883eeda88f846324c26713bad0f3803f5e8b1a70060d5be",
+      "width": 320,
+      "height": 277,
+      "actual_mime": "image/png"
+    },
+    "14": {
+      "source_sha256": "fbf9eb0046170c601b39d2fc09c125d982b49d61f6e29bfe249bbeb324bcdc2a",
+      "local_path": "res://assets/flags/roman_world/country_14.png",
+      "sha256": "00c37afc107d184f84f84c688fe424cd52b418f7895301f9c18652f26986443d",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "15": {
+      "source_sha256": "db200501c55154d1a6585b65a1c700c869b40c823dd3d2091ea330a9e4545834",
+      "local_path": "res://assets/flags/roman_world/country_15.png",
+      "sha256": "d462c25458ccfd42c0e67102a54048962259e44b8faf36d77b9541fa300c0008",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "16": {
+      "source_sha256": "dec251803fc95a1ae267dc3d8e9816b5f7b8ebe867e54babe5a7b76aa2ddb16f",
+      "local_path": "res://assets/flags/roman_world/country_16.png",
+      "sha256": "7f78088796667135a4b0cb36549dce9e7b0ea1e40d3d1d1a5f0435c12b6900d4",
+      "width": 1295,
+      "height": 863,
+      "actual_mime": "image/png"
+    },
+    "17": {
+      "source_sha256": "11567250f7b0790a665c00f01ac21c2a5549c7f7f6c6a2078a3423ccf6e77447",
+      "local_path": "res://assets/flags/roman_world/country_17.png",
+      "sha256": "d5d9f18e0c029aac22a895754cff6179ecfd40678b50f1d5bbe8a2caa39c6ac0",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "18": {
+      "source_sha256": "e7a9cd5403f0139fcc512c67659824ce8f4f656dbb2992c8cd0a20c7defc0506",
+      "local_path": "res://assets/flags/roman_world/country_18.png",
+      "sha256": "c2c5d380745bcb89a0744e770ae2f2a90fcb3751431b0f71cfb6248d80853b58",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "19": {
+      "source_sha256": "76cf4b97adf46bae590590ad0b0a7b5ffb050eaf7c3b6795e1b7e6d915163cf4",
+      "local_path": "res://assets/flags/roman_world/country_19.png",
+      "sha256": "b9b4bc2af63341950d73543e7688a4c16fee7211f936711e6a86cae001164495",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "20": {
+      "source_sha256": "4fb4e8c85c37bed06fdc946e57860735250b81043006c09551c5a5d826af7c1d",
+      "local_path": "res://assets/flags/roman_world/country_20.png",
+      "sha256": "df068814cf482fd15000f043d79d7b02081ab643901d1832d20a7e4bd7d31ef7",
+      "width": 1360,
+      "height": 862,
+      "actual_mime": "image/png"
+    },
+    "21": {
+      "source_sha256": "ab05d85ba2a631d64d07ff8d6a4ca23b8d6eddabf06d78b558c1dfbc78e25641",
+      "local_path": "res://assets/flags/roman_world/country_21.png",
+      "sha256": "585208b6aa0b184961af01450d1e32165932ba8744ab2f2c9007d9fa9e913c58",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "22": {
+      "source_sha256": "cb23e4a1c752f489c7802656917c6ef97b1112d43a2c8699ad016e104e36417c",
+      "local_path": "res://assets/flags/roman_world/country_22.png",
+      "sha256": "ba899e0d1d14072b9ddb7eecb70dc313a921583f81ab85a2e7cac21199365ad2",
+      "width": 320,
+      "height": 218,
+      "actual_mime": "image/png"
+    },
+    "23": {
+      "source_sha256": "0cb993928ad42ddd23e018e5f62eaa2c352e4b1fe1f9e0c6c1475fb928047e8d",
+      "local_path": "res://assets/flags/roman_world/country_23.png",
+      "sha256": "dfd313d2e24d9874ebbf73598cffcd8dda386982aecd68fbc3e45576e9047e7f",
+      "width": 1079,
+      "height": 719,
+      "actual_mime": "image/png"
+    },
+    "24": {
+      "source_sha256": "50c4b2c0a3461725bdf62b44ae65dc4907d4ba9e4b5791df7fb577522967086c",
+      "local_path": "res://assets/flags/roman_world/country_24.png",
+      "sha256": "97a7e4a0340db2d6a0ccb92e14697660195ae3d5773c0cf3055aafbda109bd5f",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "25": {
+      "source_sha256": "c4dedcc25537af09fde56326002a436ef457c5a6afe235a449bafc261fd27748",
+      "local_path": "res://assets/flags/roman_world/country_25.png",
+      "sha256": "47b2e11cc95029f0b61f5798f3d16f81bc04ee21d0041ad344b76de81081f430",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "26": {
+      "source_sha256": "9190e73ebeef75bd41eaa91166126390e8662d9752d5d1e2132e4665c130dfed",
+      "local_path": "res://assets/flags/roman_world/country_26.png",
+      "sha256": "88f6a57c72be1be8a36a5688e8344ee634df3672be87592365ed9b9415221cec",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "27": {
+      "source_sha256": "441de3dc73d62fe9efb7c42e128393489db51115f5e27cc609a9a1fba6ab2e14",
+      "local_path": "res://assets/flags/roman_world/country_27.png",
+      "sha256": "6c05375cdb93bec765d25ae54179c432f6246f32ba3b989a4b14ea4701efabd4",
+      "width": 957,
+      "height": 609,
+      "actual_mime": "image/png"
+    },
+    "28": {
+      "source_sha256": "624ae99c149aff23b31042b06b0451236bb61663b74ba60f64319cc7a5be3a1b",
+      "local_path": "res://assets/flags/roman_world/country_28.png",
+      "sha256": "cf6764bbd286e77744fe8ab1aa423d1b63489fb3f815817a16dbcef22951a474",
+      "width": 340,
+      "height": 170,
+      "actual_mime": "image/png"
+    },
+    "29": {
+      "source_sha256": "ff6559db415266b16b27c2b6740ea14d7643e0afb067f2a10e1f6eb6d8f7c01c",
+      "local_path": "res://assets/flags/roman_world/country_29.png",
+      "sha256": "981a4de5ac7c51583da9fafd7a79dda373dd75e79367b792cdbbd6f98db53fcd",
+      "width": 908,
+      "height": 454,
+      "actual_mime": "image/png"
+    },
+    "30": {
+      "source_sha256": "25758b4b169b97e092e25468bc48987dd71269fc1af77ce74b79de85aa4f8785",
+      "local_path": "res://assets/flags/roman_world/country_30.png",
+      "sha256": "91b7c19218d618c6b44ef60adb9968113b2cc8c26fece5fb84cbbec0e7a9e94a",
+      "width": 300,
+      "height": 200,
+      "actual_mime": "image/png"
+    },
+    "31": {
+      "source_sha256": "ff6f0dec98aebca425ace88100bf1ba3f6ca9fe93d2e6648575a33b41f846b72",
+      "local_path": "res://assets/flags/roman_world/country_31.png",
+      "sha256": "777e541dfaf7b4e475c91663e091867ba9a424cba3bd300b5310d15707c25b13",
+      "width": 1000,
+      "height": 666,
+      "actual_mime": "image/png"
+    },
+    "32": {
+      "source_sha256": "e1bdc5f70f6cb4aa7c173416b1ed55262e3fe11a4f746231ec6f69299e56c27f",
+      "local_path": "res://assets/flags/roman_world/country_32.png",
+      "sha256": "f154c761da3829bef44df160e6cd55aef6761a8ebe657d92d09ed068e9739a54",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "33": {
+      "source_sha256": "cf9a87e555f1cd41ac763bd59afde0d41e5839b7227d2af0ef18c214d51a2d07",
+      "local_path": "res://assets/flags/roman_world/country_33.png",
+      "sha256": "231de908e9bf5d58d0d25d0e55c94dcb7a1aae4cbd7189564c9103cde19ce18b",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "34": {
+      "source_sha256": "008fc1e48f263425fb49d45b7c3f86912efa01c965578d287808a9ce12688687",
+      "local_path": "res://assets/flags/roman_world/country_34.png",
+      "sha256": "7f8b37a4708d4af974ac84aab70199ee78ce1841cd111d6a7a136e70a9fa0780",
+      "width": 320,
+      "height": 240,
+      "actual_mime": "image/png"
+    },
+    "35": {
+      "source_sha256": "ac57639d5cae7a1c54d6e66d33540e43af19e7698713d8267dc5a10bcc1a1a01",
+      "local_path": "res://assets/flags/roman_world/country_35.png",
+      "sha256": "1bf5a006c076222c89299a4ccdf6a3c9a7ded129c1c17cefd11c248c06f10405",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "36": {
+      "source_sha256": "444a87b22ce70ae78e57c77347e89a9828543ec9dbaa8b07888653bc0f38078a",
+      "local_path": "res://assets/flags/roman_world/country_36.png",
+      "sha256": "e1a073c120af6535d902e6b05d0c39c60205f521723a06c9f7f8de0b0572ea2f",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "37": {
+      "source_sha256": "c4cd0d3813c5abdfcf6c4d6dd9827eff140b9d165c6ad20d804d9cee791d0d51",
+      "local_path": "res://assets/flags/roman_world/country_37.png",
+      "sha256": "c17c98224e7e14c10442a7acbd1d0bd12a1467acfa607e83e06ffd4b1c762d36",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "38": {
+      "source_sha256": "b4417a6eb8b61d46763de7db7e36c87c8894d6e36af9e79ec75328f7f978ff4d",
+      "local_path": "res://assets/flags/roman_world/country_38.png",
+      "sha256": "bf1899f1bea5fb8b2370456d2cfbb93e33e51280098f91cb120e9075d24c7dc1",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "40": {
+      "source_sha256": "f5989513e41ceb030be3b4c7c4d084af8e4bebf93b8fc9725a7fef0144af2f74",
+      "local_path": "res://assets/flags/roman_world/country_40.png",
+      "sha256": "f396f55895cb9e6ec2db5c95c07c7cf98cbe8de18e9bcfbc7bf5ef5e03219b16",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "41": {
+      "source_sha256": "f311b567d126554fb5afe2b6f1af57de1d48c0df3887e1134e097fb654abe9b9",
+      "local_path": "res://assets/flags/roman_world/country_41.png",
+      "sha256": "7deb5a323556dd1ec82464a9d1ec12f4592e856e3aeae11f1952fa817d788531",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "42": {
+      "source_sha256": "5b7c4e687206a7233959494336e2de1b0923b0a3db4f7a2474842424c5981960",
+      "local_path": "res://assets/flags/roman_world/country_42.png",
+      "sha256": "d640def53edc09f7c37cbc7cc09ed01f31f639a1515736356284fcdb2b7d845f",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "43": {
+      "source_sha256": "77eb1e2224fc37e1016a1183edd68f634140a9724bf202d3c11a107fcb99ebde",
+      "local_path": "res://assets/flags/roman_world/country_43.png",
+      "sha256": "9766722efa62137864cb13adcf527042312b08f3fba5eedf5e163c8b16db059f",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "44": {
+      "source_sha256": "293d09633ba9c09420ba11907f12506f5a221f29ae503aa53e90e333723c37be",
+      "local_path": "res://assets/flags/roman_world/country_44.png",
+      "sha256": "70cd08703b82826cd041ea375a93c15e04644ce8f6d8280316e214ed58ca63a6",
+      "width": 320,
+      "height": 242,
+      "actual_mime": "image/png"
+    },
+    "45": {
+      "source_sha256": "36816b55f9729b512426219cc5de6b2d2e3358c94ff85579af11a49c9d38f3d0",
+      "local_path": "res://assets/flags/roman_world/country_45.png",
+      "sha256": "13d8a2a7c0ff14da3fe22f14377cc7b2b1b283a938ceceaa1f07691a8f2f52cb",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "46": {
+      "source_sha256": "e1f035cc95261cc1908f092d16faa525e59cafdd590c35f44e479c63b2b2850c",
+      "local_path": "res://assets/flags/roman_world/country_46.png",
+      "sha256": "e2b3257fd8669345a22e0f317a3a061335c8cd1cfbdb7a1dc6dba32e1f7d4a46",
+      "width": 1800,
+      "height": 1200,
+      "actual_mime": "image/png"
+    },
+    "47": {
+      "source_sha256": "af6cdccc176886da2dafa350e9d4fecdd274262b7dfaed34fd87b73d0f211b2f",
+      "local_path": "res://assets/flags/roman_world/country_47.png",
+      "sha256": "df04a0d1fb0e4db7096ef34912d8af34c9bbe19a1afd0e989e45d5cefb22c883",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "48": {
+      "source_sha256": "101b43f8ce2d121e19573b9c7d07b914f73eb5d5fe163215d3bbc2eeeedf8164",
+      "local_path": "res://assets/flags/roman_world/country_48.png",
+      "sha256": "5ef89b192422e68af186582b184cc7a7e1529c98fbff5708a5d6f2639447d168",
+      "width": 500,
+      "height": 350,
+      "actual_mime": "image/png"
+    },
+    "49": {
+      "source_sha256": "5c1ab64588ff33be0013e8bdf3e121a598e405e7a3daacd5d8e960769199e7aa",
+      "local_path": "res://assets/flags/roman_world/country_49.png",
+      "sha256": "52e6e614052be867a1a1bdc82925a48d9744bb813db6d8b9aff00785a528903f",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "50": {
+      "source_sha256": "4241766d06464ae525c2631fadfa1076ad0d8303395f85ea58416432b98a41e0",
+      "local_path": "res://assets/flags/roman_world/country_50.png",
+      "sha256": "5b51911a92313cc3d7c4122494a2c11d6627c7cbb2ffd07576f1a78c02dcc98c",
+      "width": 850,
+      "height": 567,
+      "actual_mime": "image/png"
+    },
+    "51": {
+      "source_sha256": "e1bb3ae8e2350128d8e6a866c00ce3cbcbe5174a5479a86d3787d3f4cbebf291",
+      "local_path": "res://assets/flags/roman_world/country_51.png",
+      "sha256": "111872e75fab8932c99f165c5b93593411ee955aed0eddb51ad47c285ad04310",
+      "width": 320,
+      "height": 204,
+      "actual_mime": "image/png"
+    },
+    "52": {
+      "source_sha256": "b79b21e0c605e7308253ad266acf8a46263f3b697c42bde16058b191e977201d",
+      "local_path": "res://assets/flags/roman_world/country_52.png",
+      "sha256": "a812f6a6ab0970b7c7c52fd46700bc0c4a9b3b131d30c3f83934a2ee6a8b37dc",
+      "width": 1024,
+      "height": 683,
+      "actual_mime": "image/png"
+    },
+    "53": {
+      "source_sha256": "005b0d0161bcd0e27a9c04e6b1906cbe50be12fe0c2a256eaa818ec72edd9396",
+      "local_path": "res://assets/flags/roman_world/country_53.png",
+      "sha256": "e44bd2e549b2f4981e84bcac38a447ca4ba1409421ec0af7c0a8091f448f3f30",
+      "width": 320,
+      "height": 196,
+      "actual_mime": "image/png"
+    },
+    "54": {
+      "source_sha256": "fb9457b8f3d66ce838de0a9f811f51f7a093bc7226d07e965816a293fbc8c8f2",
+      "local_path": "res://assets/flags/roman_world/country_54.png",
+      "sha256": "f9b2dbf4b05359d5449247f180dd9c08a24b4aab783886a34d3ee472f50ba092",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "55": {
+      "source_sha256": "0bd1f179ff793d27fb70a9b218eb0b71c2fb1b9a31cdefbdd93bffc49b71c81c",
+      "local_path": "res://assets/flags/roman_world/country_55.png",
+      "sha256": "8d262f1a38a8a13ce08cdc54b1cc16ed262c641e9207750e03f1e96c4537e3d8",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "56": {
+      "source_sha256": "1a5bb53bd989abae6c531a65770545a9c64c91c09402f5cb3f091797385dcd20",
+      "local_path": "res://assets/flags/roman_world/country_56.png",
+      "sha256": "5b79680404c7bf9393792813fc5db472bf1a61bdcbcb9775d22998d766dd1419",
+      "width": 1200,
+      "height": 800,
+      "actual_mime": "image/png"
+    },
+    "57": {
+      "source_sha256": "e344268a9feadbbc2771571782e9baa32d80b23b24394afff96f64c53f5271d5",
+      "local_path": "res://assets/flags/roman_world/country_57.png",
+      "sha256": "76d81b0173d0b5df6974665f6754786cd085e6c0c1d51c9aaaaa2aa5e56716df",
+      "width": 320,
+      "height": 240,
+      "actual_mime": "image/png"
+    },
+    "58": {
+      "source_sha256": "857b50692900d027daacadcd901f3a73bea4cb0616de9a8cfab39a2644b06caa",
+      "local_path": "res://assets/flags/roman_world/country_58.png",
+      "sha256": "880d3fc22c8684858623f9ede579dcab52e9d655c8f7f10e2cd4612d37bfae63",
+      "width": 1024,
+      "height": 578,
+      "actual_mime": "image/png"
+    },
+    "59": {
+      "source_sha256": "d975092b321f84c91f032921f949edf0aceaa18d242fa907a124cba9b6061b0d",
+      "local_path": "res://assets/flags/roman_world/country_59.png",
+      "sha256": "4b0fea86f636613b97120b6c4ca4638c01f999d26a4c1902f610ffb121444812",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "60": {
+      "source_sha256": "f93e64a003971f666c74c23b2ede97dc8cf6834039305f0ed2255f9d9e49f36a",
+      "local_path": "res://assets/flags/roman_world/country_60.png",
+      "sha256": "ac4a0fef6ae386d272f4e03aa73c6aa05d6054634ffc973faa8d05c3dc0d2e2c",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "61": {
+      "source_sha256": "64520b30868e9b042b2fc0e752226f7608f97ba1133695f930eca336f0f6fe17",
+      "local_path": "res://assets/flags/roman_world/country_61.png",
+      "sha256": "40fb1e256d68cc169afe382119b5a958123f2a38cb444e51de4b910fdfb3a8e7",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "62": {
+      "source_sha256": "3ac29e62c88204dd9854c7fc76916a9bc9e3d5e526132bed206a0247a0032d69",
+      "local_path": "res://assets/flags/roman_world/country_62.png",
+      "sha256": "6ed5482064da187fce79b4b912ecd59157284dad98d69089080ba35d5db59951",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "63": {
+      "source_sha256": "ed721d3ca2902d62d767bc8e807a74bc8b0b6984b20520583fbf3d2eef17346a",
+      "local_path": "res://assets/flags/roman_world/country_63.png",
+      "sha256": "e550a37b4b046530424803a233129083b0ffb9ae688a85c0203f04ce1066465d",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "64": {
+      "source_sha256": "3be0477b111c96200e1e9c6d565f734e45d8f2c6d90d9b78a3d0a287ec54736c",
+      "local_path": "res://assets/flags/roman_world/country_64.png",
+      "sha256": "180ca267ee8db545a465822f957a57fb0cfb4f5cb0d275abe1be96f7f1f73da0",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "65": {
+      "source_sha256": "842606b9a4ee15e87055688ef4cad1ad81a9530dff13504da85705dcc7f640f2",
+      "local_path": "res://assets/flags/roman_world/country_65.png",
+      "sha256": "c480cfea3fe12062882d7c010fb95ff9e26dcb261dacd0ee2638afcfbf1be660",
+      "width": 720,
+      "height": 480,
+      "actual_mime": "image/png"
+    },
+    "66": {
+      "source_sha256": "8713dc973ffea3476f39ebe9e65323aec08bb5fefb2361acf189f18118de754c",
+      "local_path": "res://assets/flags/roman_world/country_66.png",
+      "sha256": "e5fc9fb38f8409055670463f568ce041261541b55e07ab8bc4201832d59a31e6",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "67": {
+      "source_sha256": "7e8a147410a6f5fa2f11e1114c5ccbfb55fd3fa0b7e6a50b789eea6388d451d4",
+      "local_path": "res://assets/flags/roman_world/country_67.png",
+      "sha256": "4f878dda49828449c0230e01832a3951d9a5f1cde62b0aec26b75274ccd956eb",
+      "width": 320,
+      "height": 200,
+      "actual_mime": "image/png"
+    },
+    "68": {
+      "source_sha256": "d8e1b963881bd18204cad18f54b97cc7da9c1c1555552fa68857419a8e2dc146",
+      "local_path": "res://assets/flags/roman_world/country_68.png",
+      "sha256": "e9fab69419663333641d1ff644a3a0454a1e77bf90f4dd77756c007a53f902f4",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "69": {
+      "source_sha256": "eb8251a65085279b8c37a59c29d6cb7a223ab18f949886af94d01a4b472186a8",
+      "local_path": "res://assets/flags/roman_world/country_69.png",
+      "sha256": "4a810241866a225b1657b4eae128364374ee37c7d69ee36e722879e30214fb52",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "70": {
+      "source_sha256": "3bf42d0c3d72e10d5e1c2baa3c9af59df27d130f7b2eac4baef9bf9d2375c06e",
+      "local_path": "res://assets/flags/roman_world/country_70.png",
+      "sha256": "edc2d98b4de06c8d4b5670b30e4bc493c4f92fe00a81975882222656a11beab4",
+      "width": 2201,
+      "height": 1600,
+      "actual_mime": "image/png"
+    },
+    "71": {
+      "source_sha256": "5f2d1902238fc321576f41a2d9e66c9dfa35a770cebb6b377c42a05bb70c4dca",
+      "local_path": "res://assets/flags/roman_world/country_71.png",
+      "sha256": "3a0945eb5f7fc358778a3a22b07e945e437d5633d856d3208c2d4329cf63b45f",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "72": {
+      "source_sha256": "a7cbcf6e1c5cfd17c7adf5cadd03516737ba43ef7156cffd4a524d535f510681",
+      "local_path": "res://assets/flags/roman_world/country_72.png",
+      "sha256": "b2e408896a2f7debdb11ebaea1534aa79940c6c3edd39695186eb4f610a13777",
+      "width": 1024,
+      "height": 683,
+      "actual_mime": "image/png"
+    },
+    "73": {
+      "source_sha256": "07af67f863c35e25bc6438c37d38577d1cbea90ccc1bd645f0fdd5d57f9ce0a8",
+      "local_path": "res://assets/flags/roman_world/country_73.png",
+      "sha256": "7ee552bb08ede0106748b31f31a13a4ae15d260d146c78282b1aff493fc6e4bf",
+      "width": 2560,
+      "height": 1280,
+      "actual_mime": "image/png"
+    },
+    "74": {
+      "source_sha256": "b1feeb129c9e51990349ca608f8708d01baa55572d7dedeea17a25b560c1d957",
+      "local_path": "res://assets/flags/roman_world/country_74.png",
+      "sha256": "0da6bf4e60adb52def2110d961a157e34680f4d467c5520bd6689fb8195b623e",
+      "width": 1920,
+      "height": 1280,
+      "actual_mime": "image/png"
+    },
+    "75": {
+      "source_sha256": "4e4123f5951dad36bb743ce1243bcfb03217a5083c2eee7f803d90ace60c046b",
+      "local_path": "res://assets/flags/roman_world/country_75.png",
+      "sha256": "d1eb5622592d66ecdb2d2b3398fa0e9e6af8a92f9dfda318e69464fa4b52610a",
+      "width": 160,
+      "height": 100,
+      "actual_mime": "image/png"
+    },
+    "76": {
+      "source_sha256": "fa32f36f7516a7936545fe0aee6f5edf45a58807f44e8f6acab550c213cfc8ec",
+      "local_path": "res://assets/flags/roman_world/country_76.png",
+      "sha256": "d444c276ab281c69d1c7f91ad4ca9c3cfb39f0b390fa59b8d07c756eb5917253",
+      "width": 1080,
+      "height": 540,
+      "actual_mime": "image/png"
+    },
+    "77": {
+      "source_sha256": "b76c95e6fe219c74a5f1a647b077111108f58a05a8ae36199a36e7f014858049",
+      "local_path": "res://assets/flags/roman_world/country_77.png",
+      "sha256": "9400217b1c812614fff14029abfd93832d83f302103d6f39b959f29f4e2c8106",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "78": {
+      "source_sha256": "2b924515699e7f347ff07c608a8379b8cf62f3ae1f6375732f1f63f78db51a20",
+      "local_path": "res://assets/flags/roman_world/country_78.png",
+      "sha256": "b4c2272e8cc789a63a4b757ca48149fd0b88e932f1170a5abe7225780efc0126",
+      "width": 1200,
+      "height": 600,
+      "actual_mime": "image/png"
+    },
+    "79": {
+      "source_sha256": "f50eca896dc1e8cf522b6789e100b6cb045a710151b529d12025c453be53b576",
+      "local_path": "res://assets/flags/roman_world/country_79.png",
+      "sha256": "e12cf778bb7796e3ac827c7dff0d25fe5bd03e0a9340de38f46010f21f8ca35e",
+      "width": 1248,
+      "height": 832,
+      "actual_mime": "image/png"
+    },
+    "80": {
+      "source_sha256": "1a5cb1046011d72e6b85b5a917f6fded21236a89e0a14ffd54eb48ae08dcc764",
+      "local_path": "res://assets/flags/roman_world/country_80.png",
+      "sha256": "2b513945f2beb98cea55464b773690cb114d6b7210e988c7e814965ffffa11bc",
+      "width": 1024,
+      "height": 683,
+      "actual_mime": "image/png"
+    },
+    "81": {
+      "source_sha256": "a4c9d6ca7c1ed3f276fe73ab1b6547ea4138dda19647893097378d5da2355f7c",
+      "local_path": "res://assets/flags/roman_world/country_81.png",
+      "sha256": "66f0af4583993be8c1fa3f5933b9931decd6b31beb2c50782ffe5bb9abda819e",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "82": {
+      "source_sha256": "2442b0d392fe9edb4de28d1d28b672e988dfcd5900e2dd6d06d5a6f1b703bbab",
+      "local_path": "res://assets/flags/roman_world/country_82.png",
+      "sha256": "2f5a9bb539f9dbfd8aebdf47a0b664fbcfa4fd3d4e730ea3b6ecffa10f336ad3",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "83": {
+      "source_sha256": "e3d87862afcf2639d764cc87482c6f59ccca14da1ebf8fdec1e5451c1705b355",
+      "local_path": "res://assets/flags/roman_world/country_83.png",
+      "sha256": "1e6d712d1a238d460d733a71542ff670a030222e716bb8d291cde03f50143b02",
+      "width": 800,
+      "height": 533,
+      "actual_mime": "image/png"
+    },
+    "84": {
+      "source_sha256": "86019e048fc62c4d4e53df05d1b2865ff0579f843c46e4449e7bb69bcd5f089a",
+      "local_path": "res://assets/flags/roman_world/country_84.png",
+      "sha256": "172e42f11e420aa6dae6f44596e7a386da7ab3a24ef2b03c54a97926b7bab6fe",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "85": {
+      "source_sha256": "41d8fc4e273b3b560f32c75f06d540075613dd8da1bfeb3ee7bb3cef2033261b",
+      "local_path": "res://assets/flags/roman_world/country_85.png",
+      "sha256": "7d6aa6f1a8f206da1e64d4169d7c386b9acc44486ef808bd6853710c8ea25f5b",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "86": {
+      "source_sha256": "d1de3fc343ab7d77b3bdf2fc26a376fb388037660a1a70676e722092592f69f2",
+      "local_path": "res://assets/flags/roman_world/country_86.png",
+      "sha256": "b2de7f88215dcc5acaa26a79ca8e63b9b80bece65f7dbed6c84b4fecea2dc6e0",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "87": {
+      "source_sha256": "d6bc203ef9645dbcd357e372830ae69d07f7b6911daadd80a5c97533e05639db",
+      "local_path": "res://assets/flags/roman_world/country_87.png",
+      "sha256": "9713e467154abedd1aa567fb4cfb8b3c4c1b172b7daec1b8b3a2bb27708a47f2",
+      "width": 1298,
+      "height": 865,
+      "actual_mime": "image/png"
+    },
+    "88": {
+      "source_sha256": "c55ea61483e4d8479c8c6440959e30620f48dcba5818418aef3e5739fecfabb2",
+      "local_path": "res://assets/flags/roman_world/country_88.png",
+      "sha256": "df20adc7c6b562e705e32683574b7b31995fc6124f37c60245cad279271aed96",
+      "width": 1266,
+      "height": 844,
+      "actual_mime": "image/png"
+    },
+    "89": {
+      "source_sha256": "10a0cbccbf0acdc047824768f4cfe8d29210aa3e12e026460b283aa40b219559",
+      "local_path": "res://assets/flags/roman_world/country_89.png",
+      "sha256": "21b8b8cb6757d31da8948ec470cafcf017707416dd3ea48b81ebeb3534aa9bff",
+      "width": 320,
+      "height": 229,
+      "actual_mime": "image/png"
+    },
+    "90": {
+      "source_sha256": "fdc7ae9c52894a915280a6bb8c40dd7bb1092ccdcf9f00e14877a9299d9d70e1",
+      "local_path": "res://assets/flags/roman_world/country_90.png",
+      "sha256": "f797baa7adcfd486a0c27fce5311220d5aa807e402bcc94f280c5c9a467f77c4",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "91": {
+      "source_sha256": "9d46811d2c49347586b17fe4864d56dff2d82ea3bcf5d182f5ec65f080777a79",
+      "local_path": "res://assets/flags/roman_world/country_91.png",
+      "sha256": "d32b7cc9b3a05c68d58f9239feb913b647d5a64d6ff1d1170b1417a0dd0fde8e",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "92": {
+      "source_sha256": "0daec35fc48a31a6975e0e35ed52dbdc4d22cd4c71af10c06d153b8d35066cc7",
+      "local_path": "res://assets/flags/roman_world/country_92.png",
+      "sha256": "22a78d546b4bdb754c0756775a94211da2d2c7e56a59a752827e68895021ceb3",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "93": {
+      "source_sha256": "e819d87449dd45660b03517c394a55f4c5f43ac950167ff1a66e997a0ad982b4",
+      "local_path": "res://assets/flags/roman_world/country_93.png",
+      "sha256": "d427df190b282089d3cdab75da9cad08f2f08c9840e870a22e73f4b06ab54184",
+      "width": 320,
+      "height": 168,
+      "actual_mime": "image/png"
+    },
+    "94": {
+      "source_sha256": "4fec87117fa7c599b816609965a1be1d26281d9d87cf8b8b4fdb1179462ce272",
+      "local_path": "res://assets/flags/roman_world/country_94.png",
+      "sha256": "4cb82dde859d2e469394ff52a1366429f168238c97d305119ddfe0a2dfd2671c",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "95": {
+      "source_sha256": "9d529e782f7b60f9acede808a04e9962bbe2cb8daf332ea22280fcda30f62c8e",
+      "local_path": "res://assets/flags/roman_world/country_95.png",
+      "sha256": "b3c21998a41c4706f67b9817062b6c62ea09754985471597c42ce36bc70c381c",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "96": {
+      "source_sha256": "be19cb58defdf57f4ce4a44ce39cbaac1b0f473e415f096130ca2a3b875aced1",
+      "local_path": "res://assets/flags/roman_world/country_96.png",
+      "sha256": "2be598cc95af4ef10233089a1e7242d4a54f5f4f58df4927e94885950c2a1747",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "97": {
+      "source_sha256": "dfd21c3cfd44900dd17af95b270fe2928c5a471d4027f166ccfda9165ab149ac",
+      "local_path": "res://assets/flags/roman_world/country_97.png",
+      "sha256": "bbe79e4863424cf8c30da9d37972778958d929f53f552425060f4513c9a7c243",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "98": {
+      "source_sha256": "12de428eaf48f640d95432378e80b110f79cc4347046b964ce00e5da93b3674e",
+      "local_path": "res://assets/flags/roman_world/country_98.png",
+      "sha256": "1a4cc67196f303916b3edd3df3c697998ecb9bbf48c5828d11b19fbc91456265",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "99": {
+      "source_sha256": "9f468f19e5c0e4d76bc34667c28e18ff49a5fc2fdb73e38c72b36382d95cb76f",
+      "local_path": "res://assets/flags/roman_world/country_99.png",
+      "sha256": "301137e61222933b28823f3f9e2c3e87aeaf7d2d43f8ed213636b149975d4bcb",
+      "width": 1024,
+      "height": 642,
+      "actual_mime": "image/png"
+    },
+    "100": {
+      "source_sha256": "41abe3ec0d86efc499ff43eebf4c91944c1699c8480f276b48b0a53a9224f61a",
+      "local_path": "res://assets/flags/roman_world/country_100.png",
+      "sha256": "b4794bb9577afd2284515a8e43bcaeafba69bdbb7b5f724744aa693a9f8da500",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "101": {
+      "source_sha256": "eb7d7f9d670800d2abb92d8111b6cb8bb438589029895d51968b2e131083c608",
+      "local_path": "res://assets/flags/roman_world/country_101.png",
+      "sha256": "3281dd36ffed2ffe74526748f7e452cb975a35b6bccdb40b2fc12acefb29fd8a",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "102": {
+      "source_sha256": "3a2c4a3b929828dce868d9e05605476083dbf10b89e0da0bd8efdc78a0130f3a",
+      "local_path": "res://assets/flags/roman_world/country_102.png",
+      "sha256": "8057564558a859cb01004d3a0874f180fda60e00af81b71b52f634bb0030111f",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "103": {
+      "source_sha256": "81346efedd5e0a50768b5cb63e6b854ecaf02f7af9d419c8c6990f0b11a3961d",
+      "local_path": "res://assets/flags/roman_world/country_103.png",
+      "sha256": "a5a3af709c84eaace8d162ffb9c0049c92de462ba7f40cddf15478c3af8f43dd",
+      "width": 1024,
+      "height": 683,
+      "actual_mime": "image/png"
+    },
+    "104": {
+      "source_sha256": "a1e79a86302b962f660c7f636cbf6944608d7d9728374a216941c03692564968",
+      "local_path": "res://assets/flags/roman_world/country_104.png",
+      "sha256": "c7859c0a15e63271041acfe9fba8212538c6d9acc9499e245e55fd7162f0a1a6",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "105": {
+      "source_sha256": "0b6f7bd6e7162595fa85ba3797c689c8dfcea51088100e0ed013874e61c38778",
+      "local_path": "res://assets/flags/roman_world/country_105.png",
+      "sha256": "97bb9154c24ba33db2888c84aa4b7ec39794dc1e6b410d716bee3771512d659c",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "106": {
+      "source_sha256": "4b5a06e5111ea50e466fe1df76df79e7ee8dc050dea5bad9ce967e8686384424",
+      "local_path": "res://assets/flags/roman_world/country_106.png",
+      "sha256": "67f00170faf1256829d71b6d87ecc531083539025ea3a25cbad9a13c3b934f37",
+      "width": 1024,
+      "height": 683,
+      "actual_mime": "image/png"
+    },
+    "107": {
+      "source_sha256": "d22eb125bc8c8c109c8d49b882bb21dc69332e8b7d12b8e1b525137296416c88",
+      "local_path": "res://assets/flags/roman_world/country_107.png",
+      "sha256": "73b893b39c3b58ac0f9929663f1bc521fb9f566cc13424717df26ba8dcf53316",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "108": {
+      "source_sha256": "34aa7263043e6241a850189fe6d174ebdc72b074646bffff7b93bf1bf1ecca1f",
+      "local_path": "res://assets/flags/roman_world/country_108.png",
+      "sha256": "a74c85d60e284dbc23ce7bd8cbc90c9ed7c55d41030a13699499f6a454f3b546",
+      "width": 297,
+      "height": 198,
+      "actual_mime": "image/png"
+    },
+    "109": {
+      "source_sha256": "35554eaf9024f28c13a6aa894d17487da74499e3bb9c4b456a13d908be9a6578",
+      "local_path": "res://assets/flags/roman_world/country_109.png",
+      "sha256": "f6d495bfebe98e332b624b99cc2e979f9ece643815f89d68dac30efea3b89368",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "110": {
+      "source_sha256": "6cb43eedb5689f683183d2506f82ab0b4836c3687daf2b34a4471bb690603762",
+      "local_path": "res://assets/flags/roman_world/country_110.png",
+      "sha256": "3590b39db47bf34f0c0a3e0f16f60a7999108878b4ec1f93fc05b46a25d281ca",
+      "width": 1440,
+      "height": 960,
+      "actual_mime": "image/png"
+    },
+    "111": {
+      "source_sha256": "c78ce921ca836fc50c8ee193da3fa9314e4a9960bc86bbda45357bcf03c6de62",
+      "local_path": "res://assets/flags/roman_world/country_111.png",
+      "sha256": "7ab3ccc087fa2f95256b7447565bf9a82c824c1cd1e0b0bcdb5542029a25e7c9",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "112": {
+      "source_sha256": "1dad8b71779bf39a749021e0ff87dba1da4ca95c0e412292b7549e96b3f699b1",
+      "local_path": "res://assets/flags/roman_world/country_112.png",
+      "sha256": "cb85f742dda02a413892852156fd7f779b42cf87ab305f9c6b060cdaf8db9198",
+      "width": 3000,
+      "height": 2000,
+      "actual_mime": "image/png"
+    },
+    "113": {
+      "source_sha256": "04174abb253122e2b822a47eeb1cfb88cc02c3076ccf8d4c926c3a1190d5b5d0",
+      "local_path": "res://assets/flags/roman_world/country_113.png",
+      "sha256": "5f2c6f8b0e913faef6d94fcf6b81932aaf8cb515ebac6827fc5c529e25031ac8",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "114": {
+      "source_sha256": "32e13625a0a074de705de8b02460875a7884567855ac200d53433e95428fe6fb",
+      "local_path": "res://assets/flags/roman_world/country_114.png",
+      "sha256": "29715a59f4b09553a5ce0fd2e43515c937fe0e2b7738b97a368335b1d423e8da",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "115": {
+      "source_sha256": "1a8e452060b23917e9d8fa811eb9d953fea7a46246367e299d04400480c7daed",
+      "local_path": "res://assets/flags/roman_world/country_115.png",
+      "sha256": "8552ff3d83d1ce527c139251a366924d3c6f13623e5186cf0861f7d15dd349ef",
+      "width": 320,
+      "height": 274,
+      "actual_mime": "image/png"
+    },
+    "116": {
+      "source_sha256": "7b84b1d6240b600690f3b5668aeeb5c4bd0aded25455fc79c5ed87c5d223841a",
+      "local_path": "res://assets/flags/roman_world/country_116.png",
+      "sha256": "65c3b23019ce6517a8d3f8b00e30696a7f22377d984bef5c4664edc7418398c6",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "117": {
+      "source_sha256": "4096982f540b1c9b781b78a00f88c04447fd8b8bf8299ed94a0832647f9100c6",
+      "local_path": "res://assets/flags/roman_world/country_117.png",
+      "sha256": "c9b06c1222d53fe10c6e93567f36a48bb74093d9d28b4c21a16914d3ff989ae5",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "118": {
+      "source_sha256": "96e665870b5205feab2c30f0ccecc0cd8a029cb089a974a3c0efbbfa00fd4fac",
+      "local_path": "res://assets/flags/roman_world/country_118.png",
+      "sha256": "eb0a9b928d35a9e59054ef109ddd8ccfcd3217f16558a12e727cd98aaf84a1ce",
+      "width": 940,
+      "height": 627,
+      "actual_mime": "image/png"
+    },
+    "119": {
+      "source_sha256": "95b176eeb12e6f8725e76e26240b4dcdcc706916aae2e9797da93d96e521f236",
+      "local_path": "res://assets/flags/roman_world/country_119.png",
+      "sha256": "eeadc1605b6d4f84bcc48fcc1dfff688208a5bc93773d8b8950b8c0f4f518dfa",
+      "width": 900,
+      "height": 600,
+      "actual_mime": "image/png"
+    },
+    "120": {
+      "source_sha256": "991dbdc1c3eec585cf623e9f93442b4cef416245bd148e28b6d927d565b020d8",
+      "local_path": "res://assets/flags/roman_world/country_120.png",
+      "sha256": "241f0360949d93ccac77069dc3c48b181fe2c578c620504e9610ede61c0253bd",
+      "width": 320,
+      "height": 390,
+      "actual_mime": "image/png"
+    },
+    "121": {
+      "source_sha256": "474b76cd6fabdc947de6233f9457526e3847dcd3551b7be947500404fe097ff6",
+      "local_path": "res://assets/flags/roman_world/country_121.png",
+      "sha256": "8cde246661920baa3d7b2e6b7662d92f97c6496b062ef0580eb51dacf297d9f3",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "122": {
+      "source_sha256": "3a82f1ca10af7690d1a3aff7811b0d84e06ceafd0d8e6282d228295837456387",
+      "local_path": "res://assets/flags/roman_world/country_122.png",
+      "sha256": "5f86529268a6d895023c187d7e1b3616aa2f93aba6224f2d6b13b5f371a213b0",
+      "width": 320,
+      "height": 183,
+      "actual_mime": "image/png"
+    },
+    "123": {
+      "source_sha256": "e4bef23d738a99bac0bdfa8463b91363d62c58c82d5b4d46da20f92004c75406",
+      "local_path": "res://assets/flags/roman_world/country_123.png",
+      "sha256": "ee6813ba83594c00807b3b1e56766026ea766773b1e08502448d674658763cf4",
+      "width": 960,
+      "height": 640,
+      "actual_mime": "image/png"
+    },
+    "124": {
+      "source_sha256": "513b71f8319e54be8515eab5dfb82325f4dd99ca28f93ef319a3613119d1366f",
+      "local_path": "res://assets/flags/roman_world/country_124.png",
+      "sha256": "1f3d312541746e13aef95594c8f6165a7b86b34bb91c9572900ddeb008b5db53",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "125": {
+      "source_sha256": "9e51166b6872a7d7035af5d7a87596aa4fd448880c3e258d73104e10155ab79a",
+      "local_path": "res://assets/flags/roman_world/country_125.png",
+      "sha256": "570264e09ffb5e21eae9484ccfa1da2bc2194e6533d535732e77b900a9915c67",
+      "width": 900,
+      "height": 600,
+      "actual_mime": "image/png"
+    },
+    "126": {
+      "source_sha256": "1f0121cfb54859f7cc2f78960deb92967cd9cf75515e40a6b1b995925e0d598e",
+      "local_path": "res://assets/flags/roman_world/country_126.png",
+      "sha256": "24bb957b70eea8e2cb51cb22407a80424a7b4e1907c6ed5bbbd3f6e601a1def2",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "127": {
+      "source_sha256": "5ce8d02f2a75e6af39d699ae86a90fb67096857b447c167c0aab8eab9841e4e8",
+      "local_path": "res://assets/flags/roman_world/country_127.png",
+      "sha256": "41b4ead153769d0ccf03f65464e53ee5bd437a2ae38a7b89cbaece76261dfd2e",
+      "width": 320,
+      "height": 240,
+      "actual_mime": "image/png"
+    },
+    "128": {
+      "source_sha256": "fe6563821974b91d5ce20abc5c05a9df0de01fb03c70be426f750f80c0cb2dd8",
+      "local_path": "res://assets/flags/roman_world/country_128.png",
+      "sha256": "2d85fd453b196c73e58f14427644c756ea08f0958f1800464def249e513df619",
+      "width": 320,
+      "height": 200,
+      "actual_mime": "image/png"
+    },
+    "129": {
+      "source_sha256": "d41696eafb2630498ef6231c69dce408c10e65b29d81faaf5be78fdf57b838d7",
+      "local_path": "res://assets/flags/roman_world/country_129.png",
+      "sha256": "9df6f7c647b7fe42a10d9a44f5f17769176f21af15e2a928bd6d630fb768e70d",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "130": {
+      "source_sha256": "4ab68875263ac9c7a1988f6a6de8c1b5c8b639228acaafa71f626dd8e851771d",
+      "local_path": "res://assets/flags/roman_world/country_130.png",
+      "sha256": "f77aee8728050756a0d427723ee0fcb1cf53591d980ea1d1967606c21b367951",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "131": {
+      "source_sha256": "b5676a6fb882be286d4963faa9f9867c87f3b35d4b95406b0f723d08ed2e7872",
+      "local_path": "res://assets/flags/roman_world/country_131.png",
+      "sha256": "176d527209c6ac1b078ee92abb8de443ced9e5493813f9f24f8b4b17e57837a6",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "132": {
+      "source_sha256": "a8b5f99b060b6a7be80b9c5cff9637a239ebc717cc145377792c8087fbf110b1",
+      "local_path": "res://assets/flags/roman_world/country_132.png",
+      "sha256": "1f84dda1e8f530eeec190405c21fd37835db27007cb0592a8ea37c5692f0f490",
+      "width": 320,
+      "height": 176,
+      "actual_mime": "image/png"
+    },
+    "133": {
+      "source_sha256": "89321675e362584fd03c2a2a3b7420ed98ce5f5a03efada5e72173eb06494590",
+      "local_path": "res://assets/flags/roman_world/country_133.png",
+      "sha256": "74327f6d5bfcd71dcc112e54965459910dcabf3fc89fd2ad3804e7f1af2a5d5c",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "134": {
+      "source_sha256": "ab123280494365aee9c16ecf9af7433d118ebac28b4495814b587f75a782b4e9",
+      "local_path": "res://assets/flags/roman_world/country_134.png",
+      "sha256": "3ebd9f21d08bcf9ca8be71f9eb217b29114dedef1979e677803f0a72b367387b",
+      "width": 320,
+      "height": 126,
+      "actual_mime": "image/png"
+    },
+    "135": {
+      "source_sha256": "5b1643bcbee62cf39161af10407a413ebdd6ef4b495a95cb2630483539e06b83",
+      "local_path": "res://assets/flags/roman_world/country_135.png",
+      "sha256": "5a733c1696319567bda8b52a713732c9a2b40932975d065f542b6635fc6be52d",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "136": {
+      "source_sha256": "c7523ac243ed114a1d8082f68b7e4d35cdfa27cb720eac6c2706f9414f513c01",
+      "local_path": "res://assets/flags/roman_world/country_136.png",
+      "sha256": "3edab21fbe926aa4d84fc4683e11a4e8a5a276616143531d73eb9ae80eb697b5",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "137": {
+      "source_sha256": "350aa6ce55beac724730d7513b12c21ccc89750bdb6a12ed172d5b1ca4ba2371",
+      "local_path": "res://assets/flags/roman_world/country_137.png",
+      "sha256": "e82da9fef22060ef96a33a670c230164b8e67383b6bb8b01d16aca9ca94208f5",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "138": {
+      "source_sha256": "47abcf8633ca90baaa6a8656b8661f410a18956f4c84e54ee15dd893f2cadad9",
+      "local_path": "res://assets/flags/roman_world/country_138.png",
+      "sha256": "713405b1c3ed22120251aed0d64c5f30cdf0bf732e6d6acb4364c0933df42c9b",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "139": {
+      "source_sha256": "1fc696f426a0c75269a95a1cc89ec9d7c3d2f8d001eb707cbb84c9b4ad2dd1c8",
+      "local_path": "res://assets/flags/roman_world/country_139.png",
+      "sha256": "6007c755c06e03d2b33f7588cc3f12e9262f9e16d0698ce4a1a9ef4aeb6534e3",
+      "width": 3000,
+      "height": 2000,
+      "actual_mime": "image/png"
+    },
+    "140": {
+      "source_sha256": "bd62df62e2d06bdb6a9eb0561be69a6ef810e0dc23e41d7ab8545d969e532280",
+      "local_path": "res://assets/flags/roman_world/country_140.png",
+      "sha256": "6c26c634301566f769d882cb8fd19b264e65ede904cac50250117987f3505213",
+      "width": 1024,
+      "height": 683,
+      "actual_mime": "image/png"
+    },
+    "141": {
+      "source_sha256": "bb6159e32c5b9592485f5ef56fe1a451b2d7e3a6981dea1b89ae6364287d1b33",
+      "local_path": "res://assets/flags/roman_world/country_141.png",
+      "sha256": "8a21eb10955f929cbc7641b573b2dd24019896de57f482f8309ad50e9e2ca491",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "142": {
+      "source_sha256": "b691250f5c70ff1ff3fabd3557455b610d48783de3f33b5a836a048404c4c2ea",
+      "local_path": "res://assets/flags/roman_world/country_142.png",
+      "sha256": "ccdfb95bbd7cc6a05a43feda080fd3bd771f7002c9b2579bd5d3a10fa114d7b7",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "143": {
+      "source_sha256": "61bf350cc8957e87beaead47bc21739976e395eaedb44af3b2b607fbf96c4a57",
+      "local_path": "res://assets/flags/roman_world/country_143.png",
+      "sha256": "33195afcb874c17b841f698c07243390f029f97b161a90d8ea25aa2b5d14f51f",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "144": {
+      "source_sha256": "11fa58ed3cffc51d51240da23a7b04c3f063b3be81215ce8586808a8ef08c116",
+      "local_path": "res://assets/flags/roman_world/country_144.png",
+      "sha256": "8b4b4a2e11ccc41178ed0e2bf68c68b87036414f61d9c5e1a72626605669e59f",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "145": {
+      "source_sha256": "56a3bfeab924c10deb1a9b2f50a14f431a71a32b9f84a071dbcf8982ca605084",
+      "local_path": "res://assets/flags/roman_world/country_145.png",
+      "sha256": "95c981cc9f0fb87ddc811e0fee825299070097a03088b52e5b87b5f1998593bc",
+      "width": 320,
+      "height": 181,
+      "actual_mime": "image/png"
+    },
+    "147": {
+      "source_sha256": "57d937816025bc8b5c6ea6c993feb18ac288db664fecaefdc0024e342ce6db65",
+      "local_path": "res://assets/flags/roman_world/country_147.png",
+      "sha256": "a99f7cdc249fce8748779184e312a852c2000101bd9e853ad811b5bb6d5eaf6f",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "148": {
+      "source_sha256": "b289752e660fbe84da9191d1ef0fffc28d822e5b42b1d96c55e4524c3aa45df4",
+      "local_path": "res://assets/flags/roman_world/country_148.png",
+      "sha256": "7ad0b957fae748530fadee838dfa8341479373e79afaa480cd35ca69c1768ea7",
+      "width": 1920,
+      "height": 1280,
+      "actual_mime": "image/png"
+    },
+    "149": {
+      "source_sha256": "f042a30c3a3d3b5de317a2c77e6b8ed33370985fa2ce1d27281b2040bab4257d",
+      "local_path": "res://assets/flags/roman_world/country_149.png",
+      "sha256": "4b2cea4ef7243d9616a0a47cbecc590e557bbe94a5d9e4bd48e57a225b906b42",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "150": {
+      "source_sha256": "0c72bdd19f34b3da5d168ec1ba8a5505f4a1f346e8d7a6c0f4a173915f60fce4",
+      "local_path": "res://assets/flags/roman_world/country_150.png",
+      "sha256": "eb38c70c140e70f4740ab4cd0464e0191ae61b4df7695bd8b2e16d8ef6d16d6a",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "151": {
+      "source_sha256": "302ff42ce2f35fae10b3ce5f72484a0bbaf79a15e2bb79deb6329308bb3ca663",
+      "local_path": "res://assets/flags/roman_world/country_151.png",
+      "sha256": "5b8cabc6f2a74b3463320d18b53c27420507770898759413a8e3b7219fd0e9b5",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "152": {
+      "source_sha256": "ae75310245acbd4ebc6dffe0605804432a7bebe1c1b4094e195b86dfac18d97c",
+      "local_path": "res://assets/flags/roman_world/country_152.png",
+      "sha256": "3c1da9d13d2e812aa7c6cc7cab2f6e73d6e6c6c64d1e8d70b331305df7b0676e",
+      "width": 320,
+      "height": 200,
+      "actual_mime": "image/png"
+    },
+    "153": {
+      "source_sha256": "708441e8ab3d78aaf68b84888bc6b387bbd661dea708facecaa6cc22238595f2",
+      "local_path": "res://assets/flags/roman_world/country_153.png",
+      "sha256": "13f916e362eb91b2645dc62460992fc18bc6f63f883a68e8386362b5e0934fab",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "154": {
+      "source_sha256": "239fbd89096a764b4bfa073d90365e625730f908ca5a5aebe554bc0d074f12c7",
+      "local_path": "res://assets/flags/roman_world/country_154.png",
+      "sha256": "6c4390b1647334b222ea7e9d2708f91f190a4817a96c3df7df19341b19d6db9e",
+      "width": 1280,
+      "height": 854,
+      "actual_mime": "image/png"
+    },
+    "155": {
+      "source_sha256": "1e2d462e4851f24071ed45b3410d017352e3a326f8ffd1cfde4e17f8a92aae0b",
+      "local_path": "res://assets/flags/roman_world/country_155.png",
+      "sha256": "f9c9d70bca8cd53a17449579f419f8972e621a8c6eb302a55ad9857f98529f09",
+      "width": 160,
+      "height": 107,
+      "actual_mime": "image/png"
+    },
+    "156": {
+      "source_sha256": "27915f5bce1d7d2b642bdf41f7c6e61f325543194ec55ab5512df22e3e3790e8",
+      "local_path": "res://assets/flags/roman_world/country_156.png",
+      "sha256": "0bf9eaa638fc12dcccb6328f76fdd3eb0e5c2185d66d0dcbada79833fe43778f",
+      "width": 320,
+      "height": 198,
+      "actual_mime": "image/png"
+    },
+    "157": {
+      "source_sha256": "d4ac744eb6139d8a2aaefcf37393ee9de53c952cee9c810bcf2392758e9c146d",
+      "local_path": "res://assets/flags/roman_world/country_157.png",
+      "sha256": "820958dd7933258b20163302c46a13d8d2965008af220141fff2f617849ddb33",
+      "width": 1536,
+      "height": 1024,
+      "actual_mime": "image/png"
+    },
+    "158": {
+      "source_sha256": "7e245ecc3760a93369427f941a17026906ca2810e9e90ccdce6f5e8d1acac171",
+      "local_path": "res://assets/flags/roman_world/country_158.png",
+      "sha256": "662e72a713debf3d99ff88d1d68e517191de2de77fd014c4e5c89f9d15a2ed3b",
+      "width": 700,
+      "height": 550,
+      "actual_mime": "image/png"
+    },
+    "159": {
+      "source_sha256": "22d157c9e73fc0467907aaa09550bb98fd6205e0ed959be8c77457ab4bd78bfe",
+      "local_path": "res://assets/flags/roman_world/country_159.png",
+      "sha256": "13864fef0d1650f75f6b3fc1b8931dcab9bc6f9c98ca9a96e7b7788446ec1da8",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "160": {
+      "source_sha256": "f4ef6e98930b9f1a53bac38fac331648432a27fc1e2c0f3acafdf757f3d7f81c",
+      "local_path": "res://assets/flags/roman_world/country_160.png",
+      "sha256": "94cf616d90d8eb4d101625023340d5d1baba5fc087da92fc65b0ea9f8c2e2e29",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "161": {
+      "source_sha256": "e7da6c5318be706713cbf7efe1f72dc073928a9aa567544f3783a64121d7420a",
+      "local_path": "res://assets/flags/roman_world/country_161.png",
+      "sha256": "68f8d3b3ca103306b54d189020bab664d7fe94d4e051fd0d34d2537e70d5952d",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "162": {
+      "source_sha256": "d2df2e3b9653e25b54a48db2c704cd40ada2a3a74e955240be382f9b044d6f48",
+      "local_path": "res://assets/flags/roman_world/country_162.png",
+      "sha256": "1d501d5201f6b89bed6569c2353121b40e1fe93fa04d32499418c9df9aae0eb8",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "163": {
+      "source_sha256": "15258f7bd5ec6983e62316202562408183fcd9b10062c43c3854d1645d40d020",
+      "local_path": "res://assets/flags/roman_world/country_163.png",
+      "sha256": "c6937fd1f06ceceb7c44d217864be5aa1b0d6e8bd5dc68ba7db592c8b58dbd14",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "164": {
+      "source_sha256": "0b521daa7385d48ee1c42b46a8e7b4154f8208999b17088244bd12f9f8f797e0",
+      "local_path": "res://assets/flags/roman_world/country_164.png",
+      "sha256": "31f6ee1bdc0cfb2ce295aa0cca9d14c5f0c3984e590628c326c6178381f0f958",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "165": {
+      "source_sha256": "03ee7415363589a16a7b8946a0a9a26448e4aaea3e50cd94603eec0d9dcf0781",
+      "local_path": "res://assets/flags/roman_world/country_165.png",
+      "sha256": "11b40af7993756d13a4cca5397a2825037dba30ba3bdc72c7693aa8e02082369",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "166": {
+      "source_sha256": "0a54249e00ff7adef3a017b1be158c24211808b765f4a1f9d0e87a549642fe4d",
+      "local_path": "res://assets/flags/roman_world/country_166.png",
+      "sha256": "f7ea06581cd0609c51824eb020f7f932ec5d7f634b4bd564a448b63e5642476c",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "167": {
+      "source_sha256": "547bfa4f51c6b949a7529c91029350d2f38b9301abc93efd508062480c241d6f",
+      "local_path": "res://assets/flags/roman_world/country_167.png",
+      "sha256": "00f28ce39965b97343c2889f52e60e4cae949d1d87b97414cf87966082859920",
+      "width": 1323,
+      "height": 882,
+      "actual_mime": "image/png"
+    },
+    "168": {
+      "source_sha256": "78189f7fc6f9f60f0a671533ff9bb5d8fee5e5865b9aa2a8a6375fa0989214b1",
+      "local_path": "res://assets/flags/roman_world/country_168.png",
+      "sha256": "58bca3287c66b645fd47f4dd944445c1f2f357dd9821592790c2b230586c6260",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "169": {
+      "source_sha256": "9e709fc1de2182ac22627b336cd8b59b0c5347700f6c3f941474d5264d96f281",
+      "local_path": "res://assets/flags/roman_world/country_169.png",
+      "sha256": "c151800963acfc8e7773733f7135e89f8d7c8e08ef91d6b40dca69f96770af05",
+      "width": 960,
+      "height": 480,
+      "actual_mime": "image/png"
+    },
+    "170": {
+      "source_sha256": "dd86b6bf0d108498148605ef643c876b1704b9e39c71a48c907b5d2cd6541e1d",
+      "local_path": "res://assets/flags/roman_world/country_170.png",
+      "sha256": "79200216437dba0fcf45a4bccc91494afca9033d550f4b53363a9cf3fda3e3bf",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "171": {
+      "source_sha256": "070c21868cacd15b136c883f43353acf5582469c63d5b0bccb4e6e295aa65a9e",
+      "local_path": "res://assets/flags/roman_world/country_171.png",
+      "sha256": "3fd76a704f669cc6fa942f6c19b053b1cf5dbf6659fe0c6cfe4a8f65ff478b45",
+      "width": 900,
+      "height": 600,
+      "actual_mime": "image/png"
+    },
+    "172": {
+      "source_sha256": "7a931852dfc6abc22a2c807cf264fb6f7fbd2d21ac4720d36f8605dc9510b8da",
+      "local_path": "res://assets/flags/roman_world/country_172.png",
+      "sha256": "8e0c56cf6709a764f101e44732d09af21268ebe5113634879dc6bd25dc274d69",
+      "width": 2000,
+      "height": 1571,
+      "actual_mime": "image/png"
+    },
+    "173": {
+      "source_sha256": "491a7c192b7eab2689b9c103c76db147e4babc5dc3fd03cfec9fb01fa0de01d7",
+      "local_path": "res://assets/flags/roman_world/country_173.png",
+      "sha256": "79bf8384ea3e3082f78be9bf6e869d62a2779a8d4f086c6bff3e3fb63809a103",
+      "width": 320,
+      "height": 192,
+      "actual_mime": "image/png"
+    },
+    "174": {
+      "source_sha256": "a234bade61e70c3078078087e079d265c489cea9b571fc38cde7d1717c0982d5",
+      "local_path": "res://assets/flags/roman_world/country_174.png",
+      "sha256": "5312c746160eb89342635e5b3de67cb98800bed008704f7855a83e37d4c3584d",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "175": {
+      "source_sha256": "81c21141154b4f88350ea098d9546fbd903152305bf1e812ce50f8c1a3f49e06",
+      "local_path": "res://assets/flags/roman_world/country_175.png",
+      "sha256": "e12cf778bb7796e3ac827c7dff0d25fe5bd03e0a9340de38f46010f21f8ca35e",
+      "width": 1248,
+      "height": 832,
+      "actual_mime": "image/png"
+    },
+    "176": {
+      "source_sha256": "9959ae59181a462d70d2b53ae451db13085765410c658c2e8e759a1cc660e3f8",
+      "local_path": "res://assets/flags/roman_world/country_176.png",
+      "sha256": "c26dc06e73b95a286b9cbd67c951b1d17ef048c9fbeea30c68d313d3f2358f05",
+      "width": 320,
+      "height": 213,
+      "actual_mime": "image/png"
+    },
+    "177": {
+      "source_sha256": "9fafdc9acfa4e6eb9b28650a2a9a253e3f72e453ef42eaf8a1f8e52ddb0a470c",
+      "local_path": "res://assets/flags/roman_world/country_177.png",
+      "sha256": "42a15b68907cd8a6b36ac327a39cf9e2d266b85bb5e1acfb5b6456f2a44c4dd9",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "178": {
+      "source_sha256": "87cf1763dfd816820faa5b71837683f982af2c37982e57af5731f34ad1893a59",
+      "local_path": "res://assets/flags/roman_world/country_178.png",
+      "sha256": "6770cf3e1d6a0e190c46f5014e465618ecd88ee523ab5f0f1fabcd3464a6c4e2",
+      "width": 1280,
+      "height": 768,
+      "actual_mime": "image/png"
+    },
+    "179": {
+      "source_sha256": "22ebe992e98934b73fd3790e4e99135fbe6c956a53d89babbc686e480ec5b09b",
+      "local_path": "res://assets/flags/roman_world/country_179.png",
+      "sha256": "96a379186f476b0f094ed353b3f30dc0f3405cb93b87d79711fda7fe67c2c560",
+      "width": 1280,
+      "height": 640,
+      "actual_mime": "image/png"
+    },
+    "180": {
+      "source_sha256": "08478dc7690c3bcb4747d45f474249a4c15c4b49031b88ab8988f45c12292891",
+      "local_path": "res://assets/flags/roman_world/country_180.png",
+      "sha256": "77464cc43e9cf7e95d6f2e1a5970cdcbac7e98d1378de80c8e36f2b8bdf67886",
+      "width": 250,
+      "height": 150,
+      "actual_mime": "image/png"
+    },
+    "181": {
+      "source_sha256": "a05a22c4f5ee52b0c0941d8f3ed294071545103b856e0eed543499bb2f80f710",
+      "local_path": "res://assets/flags/roman_world/country_181.png",
+      "sha256": "5820c10e6de6b26ce8c56af8ace940d0f8e0774936bba3b2f9ebff06085ce825",
+      "width": 180,
+      "height": 120,
+      "actual_mime": "image/png"
+    },
+    "182": {
+      "source_sha256": "f56bf2b2cdc0eb710f77e031aa03836d34b027da43dae71dbf70526deac1e71d",
+      "local_path": "res://assets/flags/roman_world/country_182.png",
+      "sha256": "b7adaa5a50dd15ec834d59c013f312d5ce521f7cf68c8bdee9eed78695158bec",
+      "width": 1280,
+      "height": 768,
+      "actual_mime": "image/png"
+    },
+    "183": {
+      "source_sha256": "44ef66a8a2db9c386c39f7b955ba62ad812173abd5fc4217493ab4d44a323ff7",
+      "local_path": "res://assets/flags/roman_world/country_183.png",
+      "sha256": "7d635b86e9be63e47ddd7c4e993a11a857edcda8379b51d2aaf70b29df985cdb",
+      "width": 250,
+      "height": 150,
+      "actual_mime": "image/png"
+    },
+    "184": {
+      "source_sha256": "eb7d7f9d670800d2abb92d8111b6cb8bb438589029895d51968b2e131083c608",
+      "local_path": "res://assets/flags/roman_world/country_184.png",
+      "sha256": "3281dd36ffed2ffe74526748f7e452cb975a35b6bccdb40b2fc12acefb29fd8a",
+      "width": 320,
+      "height": 160,
+      "actual_mime": "image/png"
+    },
+    "185": {
+      "source_sha256": "dac8a1aa46dbc13667fb957006b8ece2fe5b0f626ad04dcc1e5147190ec0e20d",
+      "local_path": "res://assets/flags/roman_world/country_185.png",
+      "sha256": "095fbf6acba644340658c1f9ced0f31e331e9030f7c06a9bbd941be9019404fc",
+      "width": 250,
+      "height": 167,
+      "actual_mime": "image/png"
+    },
+    "186": {
+      "source_sha256": "5bff4370b400bbd5533820115e834efc05466f843b78cfb670d1e07c562f6c86",
+      "local_path": "res://assets/flags/roman_world/country_186.png",
+      "sha256": "0bc4e539b34078824e4dcde14b84170cc1e45b2e81d0f050c0dac3d28a0431ca",
+      "width": 2560,
+      "height": 1280,
+      "actual_mime": "image/png"
+    },
+    "187": {
+      "source_sha256": "daf785dd9442bf880b4375043e630e928665ab3f259ddec1cd4c1ea2fa030d16",
+      "local_path": "res://assets/flags/roman_world/country_187.png",
+      "sha256": "19f6abaecf9131a910c204e89fc02147e07b8dff15c87366772f6abe5a8c1d00",
+      "width": 330,
+      "height": 220,
+      "actual_mime": "image/png"
+    },
+    "188": {
+      "source_sha256": "2c36d066fc1ee41d735baf90753e048bdf1f3e8a1f3fde39e1c3eefd5bf670ee",
+      "local_path": "res://assets/flags/roman_world/country_188.png",
+      "sha256": "a4645768be4496706838f4879a738097f4f55961cd683d0cc516b9509050c4bb",
+      "width": 275,
+      "height": 183,
+      "actual_mime": "image/png"
+    },
+    "189": {
+      "source_sha256": "3027336c69aabd9d32ef02248343d60099473d301b2f1dcca29d1fd03db1f34d",
+      "local_path": "res://assets/flags/roman_world/country_189.png",
+      "sha256": "cfa23f91ba8609c748a2c151ed37d2cc84c922f3f304d4206c30c05356126f4c",
+      "width": 1152,
+      "height": 720,
+      "actual_mime": "image/png"
+    },
+    "190": {
+      "source_sha256": "ebb052ed477df7d71ab2c843b30c77112a05f5394ba9e309c08e5c67cf0e7b03",
+      "local_path": "res://assets/flags/roman_world/country_190.png",
+      "sha256": "99bd393df96ce954247f63d54f83cd5505ba0340fdd0d393b52c9d6446f8397c",
+      "width": 318,
+      "height": 159,
+      "actual_mime": "image/png"
+    },
+    "191": {
+      "source_sha256": "2aeffcc9ae2cff9214d9ac2136f01e30cee94daebf084a804f4f8b9e965f15d9",
+      "local_path": "res://assets/flags/roman_world/country_191.png",
+      "sha256": "d95e9d83c35f2f49d4dec8f0230661bf3dcfa5cd98b49013cc6c057e6a05c9ee",
+      "width": 330,
+      "height": 165,
+      "actual_mime": "image/png"
+    },
+    "192": {
+      "source_sha256": "5e4bc56ad59cb6294acd666fe73dd810d9d29718398580732b703fc8fb652757",
+      "local_path": "res://assets/flags/roman_world/country_192.png",
+      "sha256": "d95e9d83c35f2f49d4dec8f0230661bf3dcfa5cd98b49013cc6c057e6a05c9ee",
+      "width": 330,
+      "height": 165,
+      "actual_mime": "image/png"
+    },
+    "193": {
+      "source_sha256": "345610bf67c7c5ab0d9ffe32faea23fb01d3e6dbd0c85c4641f3d60b3644eda7",
+      "local_path": "res://assets/flags/roman_world/country_193.png",
+      "sha256": "900dc02621394113c32022c7e40e48aeb44c63d08f924f1fa77cd49aa826d03d",
+      "width": 160,
+      "height": 100,
+      "actual_mime": "image/png"
+    },
+    "194": {
+      "source_sha256": "855299d28882da36ef89e002651152a78590d59631456f97d6c696cb97f1a1f5",
+      "local_path": "res://assets/flags/roman_world/country_194.png",
+      "sha256": "cb283ae3c22b59fbc0fec662214650171ae8d6f14c1b88bfc287fc0aa7c7bb1b",
+      "width": 160,
+      "height": 100,
+      "actual_mime": "image/png"
+    },
+    "195": {
+      "source_sha256": "d904d1f856776f722769c0b3cea42f7ac5956371155472b9b14a39b2e11251db",
+      "local_path": "res://assets/flags/roman_world/country_195.png",
+      "sha256": "2d2a7612672b67e3fa60567a86a721b6ab577e608b2bd5157dc4077eea07d83e",
+      "width": 1280,
+      "height": 854,
+      "actual_mime": "image/png"
+    },
+    "196": {
+      "source_sha256": "291a34ee6af484bf9c007a7ded080db25484a3d82c878a05c9e9b648f98e7143",
+      "local_path": "res://assets/flags/roman_world/country_196.png",
+      "sha256": "4bd68f740573da68fd793f7bb8f084930f11c901c269986fa6fa4008c59fa5be",
+      "width": 250,
+      "height": 167,
+      "actual_mime": "image/png"
+    },
+    "197": {
+      "source_sha256": "01c9c6280eff58a87925a699dda80934581d33689245bd9fcb53c5f2d28954cd",
+      "local_path": "res://assets/flags/roman_world/country_197.png",
+      "sha256": "52364ca3ebb7e79ece8590597d6cc88a1624dbbd84addfc103f9bbf4520706c6",
+      "width": 326,
+      "height": 217,
+      "actual_mime": "image/png"
+    },
+    "198": {
+      "source_sha256": "82f4694bdecb8d97ecc7e1705705149c61f9b728bc3cc34a81f05629ddb8e72a",
+      "local_path": "res://assets/flags/roman_world/country_198.png",
+      "sha256": "d4818e93366137641299f3b61aafc74eddfd7ff199a7254492c525d8e8fa3919",
+      "width": 1280,
+      "height": 853,
+      "actual_mime": "image/png"
+    },
+    "199": {
+      "source_sha256": "690b460cc6c8067cd68fa485660641d2855f4585ec889dd578a963ed0d31071a",
+      "local_path": "res://assets/flags/roman_world/country_199.png",
+      "sha256": "7cb7bc659967ab666691c737c244d9a06eded186a3d2ffcba314552632775f8b",
+      "width": 2560,
+      "height": 1536,
+      "actual_mime": "image/png"
+    },
+    "200": {
+      "source_sha256": "dc341c4d593115733872bbda0c15776fe239ea897eb6640025ac16d1d56074b9",
+      "local_path": "res://assets/flags/roman_world/country_200.png",
+      "sha256": "fc1291278108bfe49891a34250a0cfbb3c2659fb03f2df0fdb521d3f2c4836b2",
+      "width": 275,
+      "height": 183,
+      "actual_mime": "image/png"
+    },
+    "201": {
+      "source_sha256": "a28a8a2ae82afb02dbd9d45df8931fd4fc41a94dbe5cc7cb7f07472a75416b5d",
+      "local_path": "res://assets/flags/roman_world/country_201.png",
+      "sha256": "8f2e6ba7e36ee0cda80945ee352d0357e707d3652079f518364cb7239647c57b",
+      "width": 800,
+      "height": 560,
+      "actual_mime": "image/png"
+    },
+    "202": {
+      "source_sha256": "8cd05a7b6a9ff4a1b8a1980fb92f179417fba06680753bd64f5a754141cef2f9",
+      "local_path": "res://assets/flags/roman_world/country_202.png",
+      "sha256": "8f2e6ba7e36ee0cda80945ee352d0357e707d3652079f518364cb7239647c57b",
+      "width": 800,
+      "height": 560,
+      "actual_mime": "image/png"
+    },
+    "203": {
+      "source_sha256": "def86346866a135073f0602ed01f66ca7929e3e5235cfdbe2c9032a54914f7c3",
+      "local_path": "res://assets/flags/roman_world/country_203.png",
+      "sha256": "3a6823d0a4f123fce27dc45a861463a20370cf8aa1e1f8dfcaf0d92c302790da",
+      "width": 900,
+      "height": 600,
+      "actual_mime": "image/png"
+    },
+    "204": {
+      "source_sha256": "213f9718d67e4f8aff7474e38d2a28d3f5ab4f75de793353eb4e859d086c8006",
+      "local_path": "res://assets/flags/roman_world/country_204.png",
+      "sha256": "4d5f8c004e764e4ce0ee95180be95ebfaea0ceb2fbe7fbd23dd56892d85bf7f0",
+      "width": 1264,
+      "height": 632,
+      "actual_mime": "image/png"
+    },
+    "205": {
+      "source_sha256": "2eef89d0ddc695acd0ec5931ed892537581cc36ede783efb3a26b473457aa206",
+      "local_path": "res://assets/flags/roman_world/country_205.png",
+      "sha256": "ccff7ed34e194a52608e92ed0924b4d5106a3ffb36e1f03fa07d65f4c3b998d6",
+      "width": 1024,
+      "height": 614,
+      "actual_mime": "image/png"
+    },
+    "206": {
+      "source_sha256": "2a52d8af9e306de0ae34ae6e966bce3396bcfb2f69e0f6caf44b355cf3e0287a",
+      "local_path": "res://assets/flags/roman_world/country_206.png",
+      "sha256": "f22961e9a41697c9a86eef22fd2bbec996441d5ee816433c689542f241fbd7fe",
+      "width": 1024,
+      "height": 683,
+      "actual_mime": "image/png"
+    },
+    "207": {
+      "source_sha256": "e21b6fe1a79fe4dcaa17c0a43096a67cdd3dd294778f6fe8f4aa2d4c296ecdf0",
+      "local_path": "res://assets/flags/roman_world/country_207.png",
+      "sha256": "ccff7ed34e194a52608e92ed0924b4d5106a3ffb36e1f03fa07d65f4c3b998d6",
+      "width": 1024,
+      "height": 614,
+      "actual_mime": "image/png"
+    },
+    "208": {
+      "source_sha256": "d843ca7a7ff44511cb67de368f1728e3f8f09cb2c54ffdb8a36421b497df27e7",
+      "local_path": "res://assets/flags/roman_world/country_208.png",
+      "sha256": "43bddabcb3d704c88c18173f56f3670753ade2dea1ef1135914145a405ac8c39",
+      "width": 256,
+      "height": 256,
+      "actual_mime": "image/png"
+    },
+    "209": {
+      "source_sha256": "fa6e8bb55666ae541ecaee83eede53cb70d85786d51790b7eb03597fe974a3b7",
+      "local_path": "res://assets/flags/roman_world/country_209.png",
+      "sha256": "fe1bd86ec1aacd3e67850a9a87cf3c95ea9fd1a8bf3142f024961c7f1f727a64",
+      "width": 500,
+      "height": 333,
+      "actual_mime": "image/png"
+    },
+    "210": {
+      "source_sha256": "3b42de4b4b14f26f202e421e759ef5a0a2d7311fa270d4de58cdff52fff8dbf4",
+      "local_path": "res://assets/flags/roman_world/country_210.png",
+      "sha256": "5b79680404c7bf9393792813fc5db472bf1a61bdcbcb9775d22998d766dd1419",
+      "width": 1200,
+      "height": 800,
+      "actual_mime": "image/png"
+    },
+    "211": {
+      "source_sha256": "6151d4b1e08830edde9f0a2318c081a5c2af3e83ea86bb8acfd7ea0951ba4a73",
+      "local_path": "res://assets/flags/roman_world/country_211.png",
+      "sha256": "1cb286d9e35c63571c352518c09b50f01f82d8a49cf4213626586e55aff50d3d",
+      "width": 1536,
+      "height": 1024,
+      "actual_mime": "image/png"
+    },
+    "212": {
+      "source_sha256": "be83bf811e33551eae74613014252a548c17379ba6dce769fd560d0ab66e2009",
+      "local_path": "res://assets/flags/roman_world/country_212.png",
+      "sha256": "f6eb8a97436d4b3a2bbb1521732a643c9938f86844199d3d2f15060de2883286",
+      "width": 1024,
+      "height": 512,
+      "actual_mime": "image/png"
+    },
+    "213": {
+      "source_sha256": "76f831b10c864c2a7fd056bd00a0089cacf4489ff302087a24c05f5bef160a16",
+      "local_path": "res://assets/flags/roman_world/country_213.png",
+      "sha256": "718e7d64ae1d948392d26b83753edc3d3a6148b2d22ad80aed2263df742a5872",
+      "width": 1920,
+      "height": 1152,
+      "actual_mime": "image/png"
+    },
+    "214": {
+      "source_sha256": "2cc4d1d6b2e6551df3e870968baf53ed11e7b1e5fd4903f2048c27648cb6f27b",
+      "local_path": "res://assets/flags/roman_world/country_214.png",
+      "sha256": "17d20ceeacfdfcb11318738351ca714e5545fb85fbc41bf7e5e718cac6559b90",
+      "width": 900,
+      "height": 600,
+      "actual_mime": "image/png"
+    },
+    "215": {
+      "source_sha256": "bda86a4fd5c97e097882049ca517094bd686c2327e52271afd1f79cb05badbf1",
+      "local_path": "res://assets/flags/roman_world/country_215.png",
+      "sha256": "b4cd003ef53dd8a27c8c47e705d943fcef957c13eda5eb7facfb327c894426f9",
+      "width": 2560,
+      "height": 1479,
+      "actual_mime": "image/png"
+    },
+    "216": {
+      "source_sha256": "d03226492a4fa18954f54b590ca8aa5f48181da970b36bbc14acf8283f43d240",
+      "local_path": "res://assets/flags/roman_world/country_216.png",
+      "sha256": "f0b0d860552909937d261933bd8c59f39e36aa075a0be568e6a588c7ca7c7e83",
+      "width": 1440,
+      "height": 960,
+      "actual_mime": "image/png"
+    },
+    "217": {
+      "source_sha256": "7b5271e5d57f4a30bbc0bcbee913ed4baad985109e522e8392ec35e9d524adcb",
+      "local_path": "res://assets/flags/roman_world/country_217.png",
+      "sha256": "3575cbec205cbca1400ca7aa941fff79ecbb8a4017d7ef85bd40a7e5b50ded08",
+      "width": 1200,
+      "height": 800,
+      "actual_mime": "image/png"
+    },
+    "218": {
+      "source_sha256": "a0229f46b58c82cd7917b9e710a25e86202b5c22cd3b26141a935f6246ab39ff",
+      "local_path": "res://assets/flags/roman_world/country_218.png",
+      "sha256": "a3600ae0b9fe8a98dc69dc849aebb2a6598a09dd951c2457c41d6c34ce6a0fca",
+      "width": 1440,
+      "height": 960,
+      "actual_mime": "image/png"
+    },
+    "219": {
+      "source_sha256": "7f39a503a0b98a1925c1d605ac3ce369d86ab32d2c0843f62e48ca950c568b41",
+      "local_path": "res://assets/flags/roman_world/country_219.png",
+      "sha256": "0ee00f6e94dddb23b584950a0bbac637b5ee13b9d8964218e657522602bce083",
+      "width": 4096,
+      "height": 2730,
+      "actual_mime": "image/png"
+    },
+    "220": {
+      "source_sha256": "05fa33a0af4c130ab12469c98b2566e5f1f7aa86e5c2aee492b7366ff74b9266",
+      "local_path": "res://assets/flags/roman_world/country_220.png",
+      "sha256": "4619b86ad4c3c1460bb1e592f339845e843a5a680f35cd0d81f843b08edd387d",
+      "width": 1279,
+      "height": 767,
+      "actual_mime": "image/png"
+    },
+    "221": {
+      "source_sha256": "36e6d4b34c3163c5b5700e02ce40b28890ffc6e3d03cfa25557138a65d4439c3",
+      "local_path": "res://assets/flags/roman_world/country_221.png",
+      "sha256": "53b1607277d1873ba3d459652312be4be9e113c017dd2c69a9a1405fec975bdc",
+      "width": 1920,
+      "height": 1280,
+      "actual_mime": "image/png"
+    },
+    "222": {
+      "source_sha256": "58cc06cb8bd8af41efc1f007901baa8a4c9dedf655d04684fe4fa87c0a2deacf",
+      "local_path": "res://assets/flags/roman_world/country_222.png",
+      "sha256": "dee50395ae6b6a6568bf625357ec52f86ff60a777a29e7086257cb86963d0f7b",
+      "width": 1023,
+      "height": 585,
+      "actual_mime": "image/png"
+    },
+    "223": {
+      "source_sha256": "4dc6399c74a18b483b77872549cf524b878c9f44101addfbf09d4a68267a8936",
+      "local_path": "res://assets/flags/roman_world/country_223.png",
+      "sha256": "1068a07ad8f7ed4a2930d55a48b06ac87fe0e47324485caa6afec9caac1d8d20",
+      "width": 1440,
+      "height": 864,
+      "actual_mime": "image/png"
+    },
+    "224": {
+      "source_sha256": "1f508db49acea252098c2ec82146788e26a11eb4ce32e2dc005f7a589d4396ca",
+      "local_path": "res://assets/flags/roman_world/country_224.png",
+      "sha256": "80ec1e9964d8bd0b89e46789348c925f920015b68489cf4463a919fed7fa1b20",
+      "width": 1500,
+      "height": 1000,
+      "actual_mime": "image/png"
+    },
+    "225": {
+      "source_sha256": "e01cc8ca2c6956b68b07d00b526a929ec1f354ecbce1ffe6cd35591a7d5de2fb",
+      "local_path": "res://assets/flags/roman_world/country_225.png",
+      "sha256": "7627068c5d4cc60679b33b6f4a9b8d5371940c7c45c5b1001f4ac45b56bec934",
+      "width": 1536,
+      "height": 1024,
+      "actual_mime": "image/png"
+    },
+    "226": {
+      "source_sha256": "ef6972e74e98dd2fe260eaabdcfc74c759521ac1fd82068cf2509b5e22b58893",
+      "local_path": "res://assets/flags/roman_world/country_226.png",
+      "sha256": "d1d078b7131fe8d7f2fa842d3e2578eb679e6ec0d206da3d441a51ad9ebac8bb",
+      "width": 1280,
+      "height": 853,
+      "actual_mime": "image/png"
+    },
+    "227": {
+      "source_sha256": "2757cee6571874153316b2990590b33146fef4a00355f114ae7131e283f9ea95",
+      "local_path": "res://assets/flags/roman_world/country_227.png",
+      "sha256": "e89477392b0c9463312e29d989d01fe75557b464a90caa6ff665bb3ce9cf65e8",
+      "width": 1280,
+      "height": 853,
+      "actual_mime": "image/png"
+    },
+    "228": {
+      "source_sha256": "387796e86ee9e034240a76da61e3883a84d0b9e8df3750225f397e79597bc4f0",
+      "local_path": "res://assets/flags/roman_world/country_228.png",
+      "sha256": "1d03f50e6758e1e01b266cf0d2db28521d690fc40a15eaf5d81fb2f42e0a400c",
+      "width": 1080,
+      "height": 540,
+      "actual_mime": "image/png"
+    },
+    "229": {
+      "source_sha256": "2b10f860c8f8b4008a92ddef5e1a50553b4df8c2bac450457066055d6957b264",
+      "local_path": "res://assets/flags/roman_world/country_229.png",
+      "sha256": "468cc72ceb43c66f90ed5ad89de7ab62b8a2deb3d13e21b0daee951ae8406f71",
+      "width": 900,
+      "height": 600,
+      "actual_mime": "image/png"
+    },
+    "230": {
+      "source_sha256": "65b78292e2d3bf6e859d5a37c7e2cd8c3ec3936d4437cba2362f0aa7e6905f2d",
+      "local_path": "res://assets/flags/roman_world/country_230.png",
+      "sha256": "3fe78cec924451cfcaace5d1e36fe6bbc6136c2295572319c70b65f0dc308591",
+      "width": 2304,
+      "height": 1245,
+      "actual_mime": "image/png"
+    },
+    "231": {
+      "source_sha256": "702bc19058629ed2d00d584a7cf32244e84a444461e1f693287a309958d7489e",
+      "local_path": "res://assets/flags/roman_world/country_231.png",
+      "sha256": "a6e3f388d881b52ea02982e0bbcf289bca3516db464f9ede566aa0971549dc94",
+      "width": 1000,
+      "height": 667,
+      "actual_mime": "image/png"
+    },
+    "232": {
+      "source_sha256": "2b91c194ad4132ff35316859d7641000b7ed4caf528c4abbff5377159fa4c0d6",
+      "local_path": "res://assets/flags/roman_world/country_232.png",
+      "sha256": "54765502f78a3e5e2d01ce4bbc091f55290d54ae7258bd4dcc100839a7911723",
+      "width": 578,
+      "height": 385,
+      "actual_mime": "image/png"
+    },
+    "233": {
+      "source_sha256": "458b5e10859f16b4e80c9034d4c5f0d762bee407b3dbc09d7096281189ed633b",
+      "local_path": "res://assets/flags/roman_world/country_233.png",
+      "sha256": "31bce35d2467b75e5912f75daaedba30fa472ae35fd3687c90effd2fb1679671",
+      "width": 640,
+      "height": 383,
+      "actual_mime": "image/png"
+    },
+    "234": {
+      "source_sha256": "d5c97002fcb436fe297133dbc1cd191e57f5b8abd179d6c6fab8270ce136d945",
+      "local_path": "res://assets/flags/roman_world/country_234.png",
+      "sha256": "d30f24d79afa514d8d68f08a72805d30209e007a4e27093e3eafc9483f47137b",
+      "width": 960,
+      "height": 600,
+      "actual_mime": "image/png"
+    },
+    "235": {
+      "source_sha256": "b059a7e2b395204301fadf9193a456ef327c582050fafc886efa25544b25b8e9",
+      "local_path": "res://assets/flags/roman_world/country_235.png",
+      "sha256": "028b0de5dfd9cc9192a90f01cdab13ee00136d01377c2a213ac78e1e6eae8322",
+      "width": 2560,
+      "height": 1707,
+      "actual_mime": "image/png"
+    },
+    "236": {
+      "source_sha256": "1c6bb419e6962c634c9a7a2171568f8a7c62697ea3a7aa718a7096c20fe8b324",
+      "local_path": "res://assets/flags/roman_world/country_236.png",
+      "sha256": "2ceafa3b628b014cf6f741e9d0ba63d5b66c44a3f03b0ced742605d6255f5a78",
+      "width": 1920,
+      "height": 1200,
+      "actual_mime": "image/png"
+    },
+    "237": {
+      "source_sha256": "77666cb302bd1030afa38636686f9e2159c86569ac3c554339a3c5d6e9292474",
+      "local_path": "res://assets/flags/roman_world/country_237.png",
+      "sha256": "2ceafa3b628b014cf6f741e9d0ba63d5b66c44a3f03b0ced742605d6255f5a78",
+      "width": 1920,
+      "height": 1200,
+      "actual_mime": "image/png"
+    },
+    "238": {
+      "source_sha256": "366f4c4aa94d5a735724adbf285e1d7ec580d4df9db705ca49ecc5038a9bd243",
+      "local_path": "res://assets/flags/roman_world/country_238.png",
+      "sha256": "dee50395ae6b6a6568bf625357ec52f86ff60a777a29e7086257cb86963d0f7b",
+      "width": 1023,
+      "height": 585,
+      "actual_mime": "image/png"
+    },
+    "239": {
+      "source_sha256": "3d5ef004a74cf5b6516672769d32f0ee7604bea2c5835e8a231079ad04fecf19",
+      "local_path": "res://assets/flags/roman_world/country_239.png",
+      "sha256": "777e541dfaf7b4e475c91663e091867ba9a424cba3bd300b5310d15707c25b13",
+      "width": 1000,
+      "height": 666,
+      "actual_mime": "image/png"
+    },
+    "39": {
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_path": "res://assets/flags/roman_world/country_39.png",
+      "sha256": "a734bd397bd0f28b34bab28830de85d66ac71f7c1dbc47d652f5fbcf50cd0644",
+      "width": 1600,
+      "height": 1067,
+      "actual_mime": "image/png",
+      "provenance": "user supplied flag for this country"
+    },
+    "146": {
+      "source_sha256": "ad3d10ea93e94981c7572324504a2a74b61d94d737e25e77170e23ac4f3733d2",
+      "local_path": "res://assets/flags/roman_world/country_146.png",
+      "sha256": "4860176f93f5181b2d1aa5d284a6c0ef5fe3cd5f04c92bee55380ff8edcfa00a",
+      "width": 1600,
+      "height": 800,
+      "actual_mime": "image/png",
+      "provenance": "user supplied flag for this country"
+    }
+  },
+  "unresolved": []
+}

@@ -1,0 +1,58 @@
+MODERN WARS — THIRD-PARTY NOTICES
+License and attribution information for the materials included with the game.
+
+MODERN WARS
+Original game by man_82. Steam version developed by angel. Scenario contributors include UnionOfBritain, orange, filip, and Randombanana.
+
+DAYTIME IMAGERY: NASA BLUE MARBLE NEXT GENERATION
+NASA Earth Observatory, Blue Marble Next Generation. Imagery prepared and graded for Modern Wars. No NASA endorsement is implied.
+
+NIGHT IMAGERY: NASA BLACK MARBLE 2016
+NASA Earth Observatory images by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Roman, NASA Goddard Space Flight Center. Black Marble 2016 observations and 2019 color composites; locally reprojected and graded.
+
+NATURAL EARTH GEOGRAPHIC REFERENCE
+Natural Earth public-domain physical relief, administrative boundaries and rivers; prepared for Modern Wars.
+
+MAIN ROADS: GRIP4
+GRIP4, Meijer, Huijbregts, Schotten and Schipper (2018), Global patterns of current and future road infrastructure, Environmental Research Letters 13-064006. CC0; DOI: 10.1088/1748-9326/aabd42. Centerlines prepared for Modern Wars.
+
+TERRAIN REFERENCE: RESOLVE ECOREGIONS 2017
+RESOLVE Ecoregions 2017, Dinerstein et al. (2017), https://ecoregions.world/ . CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ . Modified by rasterization and a game terrain crosswalk.
+
+ELEVATION REFERENCE: NOAA ETOPO 2022
+NOAA National Centers for Environmental Information, ETOPO 2022, 60 arcsecond v1 surface elevation. CC0; DOI: 10.25921/fd45-gt74. Locally derived slope and relief.
+
+NATIONAL AND ALLIANCE FLAGS
+National and alliance flag artwork accompanies the supplied scenarios. Scenario-specific credits identify contributors. Player-imported flags are local user content.
+
+BUILDINGS, AIRCRAFT, SHIPS, MISSILES AND COMBAT EFFECTS
+Buildings and effects include artwork from the supplied OpenGameArt and other asset packs. Procedural vehicle silhouettes and era variants are created for Modern Wars.
+
+AUDIO AND PLAYER-SELECTED MUSIC
+Standard and nuclear-impact mixes created by the Modern Wars developer using free-to-use source sounds. Other supplied effects retain their individual source notices. Original reference soundtrack recordings are excluded from customer packages. Player-selected music is local playback only.
+
+OPTIONAL NATIVE INTEGRATIONS AND DEVELOPMENT TOOLS
+GodotSteam community integration. Steamworks is a Valve SDK; Steam and Valve are trademarks of Valve Corporation. GodotSteam license:
+
+MIT License
+
+Copyright (c) 2015-Current | GP Garcia, Chris Ridenour, and Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+

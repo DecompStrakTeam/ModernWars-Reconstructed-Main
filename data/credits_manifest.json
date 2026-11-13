@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "notice": "Modern Wars contributors, software licenses and map-data acknowledgments. No endorsement by referenced projects or data providers is implied.",
+  "entries": [
+    {
+      "id": "original",
+      "name": "Original Modern Wars",
+      "status": "Private reference; redistribution review required",
+      "credit": "Original Modern Wars by man_82. Steam version developed by angel, Lead Game Developer and Systems Architecture. Scenario contributors include UnionOfBritain, orange, filip, and Randombanana.",
+      "evidence": [
+        "res://data/licenses/THIRD_PARTY_DATA_NOTICES.txt"
+      ]
+    },
+    {
+      "id": "bindings",
+      "name": "Native bindings: godot-cpp",
+      "status": "MIT license documented",
+      "credit": "Copyright (c) 2017-present Godot Engine contributors. godot-cpp is licensed under MIT; full notice follows.",
+      "evidence": [
+        "res://data/licenses/GODOT_CPP_MIT.txt"
+      ]
+    },
+    {
+      "id": "font",
+      "name": "Playfair Display",
+      "status": "SIL Open Font License 1.1",
+      "credit": "Playfair Display: Copyright 2017 The Playfair Display Project Authors. Oxanium: Copyright 2019 The Oxanium Project Authors. SIL Open Font License 1.1; full notices follow.",
+      "evidence": [
+        "res://assets/fonts/playfair-display/OFL.txt"
+      ]
+    },
+    {
+      "id": "development",
+      "name": "GodotSteam",
+      "status": "Separate SDK/addon release review",
+      "credit": "GodotSteam community integration. Steamworks is a Valve SDK; Steam and Valve are trademarks of Valve Corporation. GodotSteam license:\n\nMIT License\n\nCopyright (c) 2015-Current | GP Garcia, Chris Ridenour, and Contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
+      "evidence": [
+        "res://data/licenses/THIRD_PARTY_DATA_NOTICES.txt"
+      ]
+    }
+  ]
+}

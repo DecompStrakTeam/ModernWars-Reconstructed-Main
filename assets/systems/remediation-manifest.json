@@ -1,0 +1,378 @@
+{
+    "version":  1,
+    "kind":  "selected supplied bytes only",
+    "files":  [
+                  {
+                      "path":  "assets/systems/vehicles/destroyer.png",
+                      "source":  "[private build input]/sheet_8dir.png",
+                      "sha256":  "5d5aa72dddf372895f2f0df9d024a06262431881a92316c298342666ba4e4334",
+                      "bytes":  8186
+                  },
+                  {
+                      "path":  "assets/systems/vehicles/drone.png",
+                      "source":  "[private build input]/drone_cc0.png",
+                      "sha256":  "1db649a554157abf6818dcd4bc62f91ba7b6f0e05d90826e8f5a5be45f98871e",
+                      "bytes":  1765
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/battleship-N.png",
+                      "source":  "[private build input]/N.png",
+                      "sha256":  "95764b73a5d28ba5563154ef5bd40f51d9ff8df8762a1796792293bf429ef58f",
+                      "bytes":  312
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/battleship-NE.png",
+                      "source":  "[private build input]/NE.png",
+                      "sha256":  "1ca86896680f6ffe48e3c4151746af4376a817f5b1e21729138309e462a9eb48",
+                      "bytes":  488
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/battleship-E.png",
+                      "source":  "[private build input]/E.png",
+                      "sha256":  "d2f141a5bb5ae0b3eb1fdbd280334e0e81bb831fc18788cf6f5d738912f495a2",
+                      "bytes":  345
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/battleship-SE.png",
+                      "source":  "[private build input]/SE.png",
+                      "sha256":  "b6892f1c015f3490d175edca8aee0f7be6d8cbc9bbe4be8b360819814f5aeb8a",
+                      "bytes":  525
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/battleship-S.png",
+                      "source":  "[private build input]/S.png",
+                      "sha256":  "e898b4aa6f2229852d9aa9408be70ea8f497f7920edb2b84f563d134e269a2a9",
+                      "bytes":  335
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/battleship-SW.png",
+                      "source":  "[private build input]/SW.png",
+                      "sha256":  "49118643600010b724a988ee7147ab94f93a66ede8095e49ac543c46aa4bbfc9",
+                      "bytes":  518
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/battleship-W.png",
+                      "source":  "[private build input]/W.png",
+                      "sha256":  "02aec820b3eb9c39444fb5154f9b87f3465f1307b3bd970a0549308a97d12a6d",
+                      "bytes":  344
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/battleship-NW.png",
+                      "source":  "[private build input]/NW.png",
+                      "sha256":  "f68cb79fab6c002f0c489abeb217f166bb0844c12cad0c4e24730a148032b3a5",
+                      "bytes":  529
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/cruiser-N.png",
+                      "source":  "[private build input]/N.png",
+                      "sha256":  "83ae9594624069e1e84793e64067676688400188bdb539dbc3fc8cc75c53592e",
+                      "bytes":  218
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/cruiser-NE.png",
+                      "source":  "[private build input]/NE.png",
+                      "sha256":  "c260ed349b4d28caf1a75546c371dbc23fb462c486636710db98a426bf02bc60",
+                      "bytes":  248
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/cruiser-E.png",
+                      "source":  "[private build input]/E.png",
+                      "sha256":  "957d6e6fd6f3a588dbb77da79b75a964ccb9fe3e63e79f5da071f85b63a1c72d",
+                      "bytes":  222
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/cruiser-SE.png",
+                      "source":  "[private build input]/SE.png",
+                      "sha256":  "c749208a0be30e05ee77138218988e8b07f85e0b21e7cfef0e94cf2253147001",
+                      "bytes":  247
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/cruiser-S.png",
+                      "source":  "[private build input]/S.png",
+                      "sha256":  "54d9e2ea83b3f234944c9e986a110d241579e250b534495a74797363c9c8d561",
+                      "bytes":  218
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/cruiser-SW.png",
+                      "source":  "[private build input]/SW.png",
+                      "sha256":  "c260ed349b4d28caf1a75546c371dbc23fb462c486636710db98a426bf02bc60",
+                      "bytes":  248
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/cruiser-W.png",
+                      "source":  "[private build input]/W.png",
+                      "sha256":  "c4a6a8cede7319c6d147a04825199649db083dae6f504e032cb69d579ce8db04",
+                      "bytes":  222
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/cruiser-NW.png",
+                      "source":  "[private build input]/NW.png",
+                      "sha256":  "c749208a0be30e05ee77138218988e8b07f85e0b21e7cfef0e94cf2253147001",
+                      "bytes":  247
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/destroyer-N.png",
+                      "source":  "[private build input]/N.png",
+                      "sha256":  "748e60df77cd98aab0da010385a0f7193d522ee9801778949a5f7d1239183e1d",
+                      "bytes":  297
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/destroyer-NE.png",
+                      "source":  "[private build input]/NE.png",
+                      "sha256":  "927d6f89243712030dc7af5c6fe2ea93a3e3f112a23cccf6232a7a8c20b308ba",
+                      "bytes":  297
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/destroyer-E.png",
+                      "source":  "[private build input]/E.png",
+                      "sha256":  "cc0cd66412bcbfef2ccac0fd43e5db4aa7cc6dd90393fe57a97dbcb4dbedb50a",
+                      "bytes":  285
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/destroyer-SE.png",
+                      "source":  "[private build input]/SE.png",
+                      "sha256":  "1e54eeaa87d511538a475eb8a0e4b20ba71e71cf3e2248372253ec403cc59303",
+                      "bytes":  295
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/destroyer-S.png",
+                      "source":  "[private build input]/S.png",
+                      "sha256":  "73c8f1894db3c2ee63c74c765fa7c8d2ae698dfab3defd5814823690542552b6",
+                      "bytes":  293
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/destroyer-SW.png",
+                      "source":  "[private build input]/SW.png",
+                      "sha256":  "c7570aca201bc2d26fcd007fe771d16e01d8baff0324a69afb4eecc8d7002933",
+                      "bytes":  296
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/destroyer-W.png",
+                      "source":  "[private build input]/W.png",
+                      "sha256":  "dbaa9be40d5f84f62cf912d035acd04f8434dd1e3f74b2b5e53dc20fea051da8",
+                      "bytes":  279
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/destroyer-NW.png",
+                      "source":  "[private build input]/NW.png",
+                      "sha256":  "5bcaa97c9abf1fa541045e65e61b5609a2bc1ec126d5259724b2dddc5d90f7c5",
+                      "bytes":  299
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/submarine-N.png",
+                      "source":  "[private build input]/N.png",
+                      "sha256":  "15ccdf0c93c1add424ef271469d32c3675acb90c8e0ffe1c2f1b467316c96f36",
+                      "bytes":  240
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/submarine-NE.png",
+                      "source":  "[private build input]/NE.png",
+                      "sha256":  "2eaa0e9236e148c9fa2ff65a54a6ed72aed57e4055c393846adeb2a0d67d7a83",
+                      "bytes":  250
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/submarine-E.png",
+                      "source":  "[private build input]/E.png",
+                      "sha256":  "dd4c263853d57f6a9e776d9ed5e1d45ca0e6144c4248d3b76dd010f284c0877f",
+                      "bytes":  237
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/submarine-SE.png",
+                      "source":  "[private build input]/SE.png",
+                      "sha256":  "1c8f65b0f2940d08b4b50844b1e8f910a43dfde585342fd0d03694d911bce4a9",
+                      "bytes":  254
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/submarine-S.png",
+                      "source":  "[private build input]/S.png",
+                      "sha256":  "adb7f48302569fa212985381460cb82f28eed9c40bf202ad7b80f788e73bc0d7",
+                      "bytes":  242
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/submarine-SW.png",
+                      "source":  "[private build input]/SW.png",
+                      "sha256":  "be61eaa683530fe1302f97830769bdd6eb2436bb1bb98a5782be6e360c993e53",
+                      "bytes":  251
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/submarine-W.png",
+                      "source":  "[private build input]/W.png",
+                      "sha256":  "9be6968b8e47e64a2acc95c18e3238a79371331153059032e7170422c39fb7be",
+                      "bytes":  241
+                  },
+                  {
+                      "path":  "assets/systems/combat/turrets/submarine-NW.png",
+                      "source":  "[private build input]/NW.png",
+                      "sha256":  "c178977a63f26891868e984afdc93e7ef3b2f41c0d6e9210a21affca7c222ecc",
+                      "bytes":  253
+                  },
+                  {
+                      "path":  "assets/systems/combat/bomb.png",
+                      "source":  "[private build input]/bomb_finned_side_frame.png",
+                      "sha256":  "80c52e3af9aa149668def2e6a46b123700179a4da983c45b8d93000af09b81ce",
+                      "bytes":  659
+                  },
+                  {
+                      "path":  "assets/systems/combat/drone-explosion.png",
+                      "source":  "[private build input]/drone_explosion_cc0.png",
+                      "sha256":  "74006b8a567c4ed96ace300501528bd0b2a97e4e0d232589a3b821dab4dd8368",
+                      "bytes":  5664
+                  },
+                  {
+                      "path":  "assets/systems/combat/explosion.png",
+                      "source":  "[private build input]/explosion-1.png",
+                      "sha256":  "c4aba08577f445df4dad800a97aaf488c236f63a08c96fe7810c72f9cd36ddb2",
+                      "bytes":  824
+                  },
+                  {
+                      "path":  "assets/systems/combat/fire.png",
+                      "source":  "[private build input]/FirePlume_RefSheet.png",
+                      "sha256":  "9f084b6cedcc220a549420a5d1b86c8fb3044b253516e1057ec3eb8a883fa538",
+                      "bytes":  3722
+                  },
+                  {
+                      "path":  "assets/systems/combat/muzzle.png",
+                      "source":  "[private build input]/Muzzle Big Fire.png",
+                      "sha256":  "387c7fa2de70cb0adea2808a11b91edae7078b9045b2b3b171046cda4dff736f",
+                      "bytes":  3427
+                  },
+                  {
+                      "path":  "assets/systems/combat/smoke.png",
+                      "source":  "[private build input]/SmokeLarge_RefSheet.png",
+                      "sha256":  "8e9f40edc11a918ff77d3a61d2ccd8f72b7f21751d3c9db4c8fb348b399bc0e4",
+                      "bytes":  37880
+                  },
+                  {
+                      "path":  "assets/systems/combat/splash.png",
+                      "source":  "[private build input]/splash_cc0.png",
+                      "sha256":  "d2ff34ce5a768c141f673b36e15bc88bbf6a709fa2f68dd5bb131b68e3ab9ad1",
+                      "bytes":  1406
+                  },
+                  {
+                      "path":  "assets/systems/combat/trail.png",
+                      "source":  "[private build input]/spr_smoke_strip17trail.png",
+                      "sha256":  "e38562e024fd5309754af127bff311fe2b6e8a7fdda7bccbda512a1afeb2f834",
+                      "bytes":  36091
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/bombardment.wav",
+                      "source":  "[private build input]/bomber_bombardment_sequence_8_impacts.wav",
+                      "sha256":  "36725eb80eee2503cc76296133e59239d46426322ab1ef777ebeada132da40ab",
+                      "bytes":  2328524
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/drone-ambient.wav",
+                      "source":  "[private build input]/drone_quadcopter_recording_56s.wav",
+                      "sha256":  "642f06b1578e5204d7695223f443ae3878daa19bbfe938dd2b6b59330c496fc9",
+                      "bytes":  8023344
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/drone-hit.wav",
+                      "source":  "[private build input]/drone_strike_flyover_impact.wav",
+                      "sha256":  "6562fa13c35d5339a23e8931be814509d7234aa03d5f4f6b09b396bff6b15929",
+                      "bytes":  2293244
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/flak.ogg",
+                      "source":  "[private build input]/phalanx_ciws_burst_preview.ogg",
+                      "sha256":  "82949453aeb15da34efae4221735b7aef7a55402fd87c4435361984855106861",
+                      "bytes":  53868
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/flyby.ogg",
+                      "source":  "[private build input]/jet_plane_flyby_preview.ogg",
+                      "sha256":  "3462ad6fab00157e2ed9168925a17ea41b1e3f049803204ac86dc4979dd38677",
+                      "bytes":  165164
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/gun.wav",
+                      "source":  "[private build input]/ship_gunshot_cc0.wav",
+                      "sha256":  "9f92266b6d45c83429c7a1e114edb5f10f78dc67ecb6d12d7d1e4549f5c82f12",
+                      "bytes":  176510
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/missile-hit.wav",
+                      "source":  "[private build input]/missile_impact_composite.wav",
+                      "sha256":  "cab0b6d11a5d69ef1f739324f457328ee61989eaab0b13c200bd4c79854573e2",
+                      "bytes":  1411244
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/missile-launch.wav",
+                      "source":  "[private build input]/missile_launch_game_effect.wav",
+                      "sha256":  "7a32c93aa056cdc1abc19b990349d6b72f96ec4790a342f41f4fdbe3b0756d40",
+                      "bytes":  475308
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/naval-ambient.wav",
+                      "source":  "[private build input]/ship_movement_ambient.wav",
+                      "sha256":  "907a202ca86e7717a9c6441b1d6b36719799a4e91077e9fe5227b0af75237df6",
+                      "bytes":  1764122
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/nuclear-hit.wav",
+                      "source":  "[private build input]/nuclear_strike_cinematic_composite.wav",
+                      "sha256":  "3c03d204a8a8e617d1a037429ddc4bec5191ac56cac0aab9e37ceafd14f4b483",
+                      "bytes":  2646044
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/shore.wav",
+                      "source":  "[private build input]/ship_bombardment_land_sequence.wav",
+                      "sha256":  "57851af48ab367ddab4d6a0516a1fc481b17529aafb4d1433938577c92df9235",
+                      "bytes":  1940444
+                  },
+                  {
+                      "path":  "assets/systems/combat/audio/water-hit.wav",
+                      "source":  "[private build input]/water_surface_explosion_01.wav",
+                      "sha256":  "8078fc23e0322845cf4c41bae787a0a98572224dc36de809de465e232972db8e",
+                      "bytes":  451950
+                  },
+                  {
+                      "path":  "assets/systems/combat/missiles/n.png",
+                      "source":  "[private build input]/missile-n.png",
+                      "sha256":  "941d9655303fd24faf1491b375d1a4def919ab6c35cb735cc003906c17834314",
+                      "bytes":  296
+                  },
+                  {
+                      "path":  "assets/systems/combat/missiles/ne.png",
+                      "source":  "[private build input]/missile-ne.png",
+                      "sha256":  "56fa8bf90c3514fc24021a4d1e0a5d2308cd00424994682c0e7fa305bf7d1372",
+                      "bytes":  336
+                  },
+                  {
+                      "path":  "assets/systems/combat/missiles/e.png",
+                      "source":  "[private build input]/missile-e.png",
+                      "sha256":  "2f74c951fe61b41ad0f24b91f993985a10a11cc32f3f3ddcf8aa10c2b49b0d93",
+                      "bytes":  300
+                  },
+                  {
+                      "path":  "assets/systems/combat/missiles/se.png",
+                      "source":  "[private build input]/missile-se.png",
+                      "sha256":  "097557ae7587ac05cf0ada32706c951259fe114d411332ff8ada54faa10ba179",
+                      "bytes":  336
+                  },
+                  {
+                      "path":  "assets/systems/combat/missiles/s.png",
+                      "source":  "[private build input]/missile-s.png",
+                      "sha256":  "b5c0680cd417310444a29b65baebe9c886ae1fb675fb26b56cf60d872112550f",
+                      "bytes":  294
+                  },
+                  {
+                      "path":  "assets/systems/combat/missiles/sw.png",
+                      "source":  "[private build input]/missile-sw.png",
+                      "sha256":  "fbe051ce5036a3db4f4aff9b922ca19dbea247afe45eecbedafda00983788d32",
+                      "bytes":  343
+                  },
+                  {
+                      "path":  "assets/systems/combat/missiles/w.png",
+                      "source":  "[private build input]/missile-w.png",
+                      "sha256":  "252a9a5a965e9ae4896da56754548a9b779085423e354d815459d1363b0c8d24",
+                      "bytes":  296
+                  },
+                  {
+                      "path":  "assets/systems/combat/missiles/nw.png",
+                      "source":  "[private build input]/missile-nw.png",
+                      "sha256":  "c067bc6154d3c71f65e49fc9e3371f3b5e22cb5c55576c08a124f2c5ef13b395",
+                      "bytes":  335
+                  }
+              ]
+}

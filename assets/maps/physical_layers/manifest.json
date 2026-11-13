@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "runtime_network": false,
+  "projection": "equirectangular EPSG:4326; north-down; cell centers",
+  "admin1": {
+    "source_sha256": "EFC59726337323058F9446210ADC96673179CD344E053666EE3D28CB58BA2B05",
+    "version": "Natural Earth5.1.1",
+    "source_url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_1_states_provinces.zip",
+    "license": "public domain",
+    "features": 4596,
+    "segments": 847276,
+    "path": "admin1_segments_v1.bin",
+    "sha256": "F1B9D34277A7F166B627A51C7E31A6E10647954786A3ADEDF186B01E616E4673",
+    "bytes": 13556428,
+    "format": "MWA1, u32 version/count, float32 lon1/lat1/lon2/lat2; exact edge dedup"
+  },
+  "terrain": {
+    "source_bundle_sha256": "1C233EF47D464A10923E458FBFD813B0FDE087C9BE5D142A5A59E902BCAF4BE6",
+    "source_manifest_sha256": "39D49622D94D9599161A4C55E67987C62400DD6677CC459D632601C38C3CB981",
+    "attribution": [
+      "RESOLVE Ecoregions 2017, Dinerstein et al. (2017), CC-BY-4.0, https://ecoregions.world/ ; modified by rasterization and game crosswalk.",
+      "NOAA National Centers for Environmental Information (2022), ETOPO 2022, https://doi.org/10.25921/fd45-gt74 ; 60s v1 surface, CC0-1.0; derived slope/relief/aggregation."
+    ],
+    "path": "terrain_2bit_v1.bin",
+    "sha256": "785A6F9061BE0A58B9A50EC07D337DB644F792DFF63A95EAFFCE9F6AAB4A4D93",
+    "bytes": 1620016,
+    "width": 3600,
+    "height": 1800,
+    "format": "MWT2, u32 version/width/height, four low-to-high2-bit cells per byte",
+    "encoding": {
+      "0": "plains/other known ecology",
+      "1": "approved hilly",
+      "2": "verified mountains",
+      "3": "water or unknown"
+    },
+    "fallback": "Scenario land/domain mask remains authoritative; unknown/water evidence on legal scenario land has neutral plains modifiers.",
+    "counts": {
+      "0": 730679,
+      "1": 484203,
+      "2": 713974,
+      "3": 4551144
+    }
+  }
+}
